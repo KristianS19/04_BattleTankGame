@@ -3,5 +3,5 @@ An open world head-to-head tank combat game, with simplified AI, terrain, and ad
 
 ## Lecture List
 * BT01 Intro, Notes, & Assets
-
+* BT02 Game Design Document (GDD)
 
