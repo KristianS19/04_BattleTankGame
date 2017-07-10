@@ -767,3 +767,437 @@ Exception rethrown at [0]:
 [2017.07.10-21.54.47:396][133]LogSavePackage: Save=706.08ms
 [2017.07.10-21.54.47:396][133]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData09BB5C46470F89913D42EE9D89F744D6.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
 [2017.07.10-21.54.47:397][133]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-21.58.47:932][201]LogSavePackage: Save=355.94ms
+[2017.07.10-21.58.47:932][201]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame80D593394E1AB6DB47EF4F9892698365.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-21.58.47:944][201]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-21.58.48:654][201]LogSavePackage: Save=693.51ms
+[2017.07.10-21.58.48:654][201]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData179A7DBD4A4BCE01E85851B221B4B7DF.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-21.58.48:657][201]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-22.08.48:175][  3]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleTankGame' took 0.019
+[2017.07.10-22.08.48:237][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Landscape] ([1] browsable assets)...
+[2017.07.10-22.08.48:270][  3]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Landscape.Landscape]
+[2017.07.10-22.08.48:271][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/Landscape]
+[2017.07.10-22.08.48:351][  3]LogSavePackage: Save=79.51ms
+[2017.07.10-22.08.48:351][  3]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Landscape_Auto34E8962CD42BE9547CFEDB39918466008.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Autosaves/Game/Landscape_Auto3.uasset'
+[2017.07.10-22.08.48:353][  3]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Autosaves/Game/Landscape_Auto3.uasset
+[2017.07.10-22.08.48:353][  3]LogFileHelpers: Auto-saving content packages took 0.177
+[2017.07.10-22.36.40:308][ 43]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.36.42:799][ 43]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.36.42:956][ 43]LogSlate: Took 0.109129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.07.10-22.36.46:046][ 64]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.36.46:046][ 64]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.36.46:046][ 64]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.37.03:205][950]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.37.04:873][965]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.37.04:873][965]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.37.04:873][965]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.37.08:946][ 56]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.37.10:138][ 71]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.37.10:138][ 71]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.37.10:138][ 71]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.38.46:704][716]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.38.47:571][726]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.38.48:797][741]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.38.48:797][741]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.38.48:797][741]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.39.05:292][959]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.39.06:717][971]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.39.06:718][971]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.39.06:718][971]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.39.27:966][142]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.39.29:222][158]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.39.29:222][158]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.39.29:222][158]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.39.44:588][479]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.39.44:602][479]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-22.39.44:685][480]LogSlate: Took 0.011716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.07.10-22.39.46:637][534]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.39.46:637][534]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.39.46:637][534]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.40.01:543][897]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.40.01:562][897]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-22.40.03:299][944]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.40.03:299][944]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.40.03:299][944]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.40.15:912][227]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.40.16:931][241]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.40.16:931][241]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.40.16:931][241]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.40.18:625][307]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.40.18:644][307]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-22.40.20:019][341]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.40.20:019][341]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.40.20:019][341]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.40.35:926][722]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.40.35:950][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-22.40.40:054][890]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.40.40:076][890]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-22.40.41:017][904]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.40.41:017][904]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.40.41:017][904]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.40.59:168][  2]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.40.59:184][  2]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-22.41.00:322][ 16]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.41.00:322][ 16]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.41.00:322][ 16]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.41.05:592][159]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.41.05:613][159]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-22.41.06:704][172]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.41.06:704][172]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.41.06:704][172]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.41.20:494][584]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.41.20:512][584]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-22.41.21:568][598]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.41.21:568][598]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.41.21:568][598]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.41.33:662][761]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.41.33:681][761]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-22.41.34:750][775]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.41.34:750][775]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.41.34:750][775]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.41.40:844][ 96]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.41.40:862][ 96]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-22.41.41:819][108]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.41.41:819][108]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.41.41:819][108]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-22.42.01:402][247]LogMaterialEditor: Saving and Compiling material Landscape
+[2017.07.10-22.42.02:819][247]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.02:889][247]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.02:917][247]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.03:033][247]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Landscape, compiling. 
+[2017.07.10-22.42.03:773][247]TextureStreamingBuild:Display: Compiling optional shaders took 0.789 seconds.
+[2017.07.10-22.42.05:366][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Landscape.uasset" SILENT=true
+[2017.07.10-22.42.05:376][247]LogSavePackage: Save=9.15ms
+[2017.07.10-22.42.05:376][247]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/LandscapeFEE1F744430BFA7850E3A58B03BCC4A9.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Landscape.uasset'
+[2017.07.10-22.42.05:377][247]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Landscape.uasset
+[2017.07.10-22.42.05:414][247]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-22.42.05:414][247]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-22.42.05:414][247]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.07.10-22.42.48:451][810]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.48:502][810]LogMaterial:Warning: Material /Game/Landscape.Landscape needed to have new flag set bUsedWithStaticLighting !
+[2017.07.10-22.42.48:505][810]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.48:539][810]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.48:622][810]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.48:630][810]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.42.48:656][810]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.43.01:789][ 28]LogSavePackage: Save=332.08ms
+[2017.07.10-22.43.01:789][ 28]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame1953116E4774C4430354A2947233E060.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-22.43.01:791][ 28]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-22.43.02:509][ 28]LogSavePackage: Save=696.71ms
+[2017.07.10-22.43.02:509][ 28]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData12833B9C49338C3495CAF9B09313FC94.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-22.43.02:511][ 28]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-22.43.50:726][387]LogTexture:Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2017.07.10-22.43.50:765][387]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.43.50:842][387]LogTexture:Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2017.07.10-22.43.50:874][387]LogTexture:Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2017.07.10-22.43.50:906][387]LogTexture:Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2017.07.10-22.43.50:932][387]LogTexture:Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2017.07.10-22.43.50:964][387]LogTexture:Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2017.07.10-22.43.51:024][387]LogTexture:Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2017.07.10-22.43.51:064][387]LogTexture:Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2017.07.10-22.43.51:104][387]LogTexture:Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2017.07.10-22.43.51:149][387]LogTexture:Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2017.07.10-22.43.51:189][387]LogTexture:Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2017.07.10-22.43.51:225][387]LogTexture:Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2017.07.10-22.43.51:270][387]LogTexture:Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2017.07.10-22.43.51:305][387]LogTexture:Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2017.07.10-22.43.51:347][387]LogTexture:Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2017.07.10-22.43.51:382][387]LogTexture:Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2017.07.10-22.44.00:996][493]LogTexture:Display: Building textures: Texture2D_16 (BGRA8, 256X256)
+[2017.07.10-22.44.00:999][493]LogTexture:Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2017.07.10-22.44.01:002][493]LogTexture:Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2017.07.10-22.44.01:005][493]LogTexture:Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2017.07.10-22.44.01:008][493]LogTexture:Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2017.07.10-22.44.01:011][493]LogTexture:Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2017.07.10-22.44.01:014][493]LogTexture:Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2017.07.10-22.44.01:017][493]LogTexture:Display: Building textures: Texture2D_17 (BGRA8, 256X256)
+[2017.07.10-22.44.01:020][493]LogTexture:Display: Building textures: Texture2D_18 (BGRA8, 256X256)
+[2017.07.10-22.44.01:023][493]LogTexture:Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2017.07.10-22.44.01:026][493]LogTexture:Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2017.07.10-22.44.01:029][493]LogTexture:Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2017.07.10-22.44.01:032][493]LogTexture:Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2017.07.10-22.44.01:035][493]LogTexture:Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2017.07.10-22.44.01:038][493]LogTexture:Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2017.07.10-22.44.01:041][493]LogTexture:Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2017.07.10-22.44.01:459][493]LogSavePackage: Save=502.04ms
+[2017.07.10-22.44.01:459][493]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameA58112134BB2907294547DA3319D635D.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-22.44.01:463][493]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-22.44.02:187][493]LogSavePackage: Save=706.15ms
+[2017.07.10-22.44.02:187][493]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData0C925AA74594270804A45E8A6E0E42AA.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-22.44.02:189][493]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-22.44.37:734][758]LogTexture:Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2017.07.10-22.44.37:762][758]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.44.37:952][759]LogTexture:Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2017.07.10-22.44.49:651][840]LogTexture:Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2017.07.10-22.45.14:201][ 85]LogTexture:Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2017.07.10-22.45.16:522][108]LogTexture:Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2017.07.10-22.45.28:198][210]LogTexture:Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2017.07.10-22.45.49:785][430]LogTexture:Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2017.07.10-22.46.07:100][608]LogTexture:Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2017.07.10-22.46.07:909][614]LogMaterial: Missing cached shader map for material Landscape, compiling. 
+[2017.07.10-22.46.48:557][973]LogTexture:Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2017.07.10-22.47.20:359][285]LogTexture:Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2017.07.10-22.47.29:884][362]LogTexture:Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2017.07.10-22.47.29:888][362]LogTexture:Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2017.07.10-22.47.29:892][362]LogTexture:Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2017.07.10-22.47.29:895][362]LogTexture:Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2017.07.10-22.47.29:899][362]LogTexture:Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2017.07.10-22.47.29:901][362]LogTexture:Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2017.07.10-22.47.29:904][362]LogTexture:Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2017.07.10-22.47.29:909][362]LogTexture:Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2017.07.10-22.47.29:912][362]LogTexture:Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2017.07.10-22.47.29:915][362]LogTexture:Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2017.07.10-22.47.29:918][362]LogTexture:Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2017.07.10-22.47.29:920][362]LogTexture:Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2017.07.10-22.47.29:923][362]LogTexture:Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2017.07.10-22.47.29:927][362]LogTexture:Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2017.07.10-22.47.29:930][362]LogTexture:Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2017.07.10-22.47.29:933][362]LogTexture:Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2017.07.10-22.47.29:936][362]LogTexture:Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2017.07.10-22.47.29:939][362]LogTexture:Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2017.07.10-22.47.29:942][362]LogTexture:Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2017.07.10-22.47.29:945][362]LogTexture:Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2017.07.10-22.47.29:948][362]LogTexture:Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2017.07.10-22.47.29:951][362]LogTexture:Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2017.07.10-22.47.30:311][362]LogSavePackage: Save=472.43ms
+[2017.07.10-22.47.30:311][362]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameC62008CE47CEC4E990C5E6A667ECCD54.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-22.47.30:485][362]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-22.47.31:243][362]LogSavePackage: Save=710.21ms
+[2017.07.10-22.47.31:243][362]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataCD675AB140F272284CCEACBABD49F662.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-22.47.31:244][362]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-22.47.33:275][442]MapCheck: New page: Map Check
+[2017.07.10-22.47.33:326][442]LightingResults: New page: Lighting Build - Jul 10, 2017, 2:47:33 PM
+[2017.07.10-22.47.33:462][442]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.07.10-22.47.33:463][442]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.07.10-22.47.33:463][442]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.07.10-22.47.33:464][442]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.07.10-22.47.33:464][442]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1584
+[2017.07.10-22.47.43:093][442]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.07.10-22.47.43:093][442]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.07.10-22.47.43:093][442]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.07.10-22.47.43:093][442]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.07.10-22.47.43:093][442]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.07.10-22.47.43:851][442]LogEditorBuildUtils: Build time 0:10
+[2017.07.10-22.47.43:862][442]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.07.10-22.47.43:892][442]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.07.10-22.47.44:356][452]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling. 
+[2017.07.10-22.47.44:364][452]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling. 
+[2017.07.10-22.47.44:563][458]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling. 
+[2017.07.10-22.47.44:574][458]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling. 
+[2017.07.10-22.50.07:086][ 10]Job is a success!
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_9 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_11 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_12 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_13 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_14 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_16 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2017.07.10-22.50.45:355][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_18 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_19 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_20 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_21 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_22 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_23 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_24 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_15 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_25 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_28 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_29 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_30 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_26 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_32 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_33 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_34 (DXT1, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:379][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_35 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_31 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_36 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_37 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_38 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_39 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_27 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_43 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_40 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_44 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_45 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_47 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_46 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_42 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_41 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_48 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_49 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_50 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_51 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_52 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_53 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_54 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_56 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_57 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_55 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_58 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_59 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_61 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_62 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_64 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 64X64)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_65 (DXT1, 64X64)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_60 (DXT1, 512X512)
+[2017.07.10-22.50.45:380][ 11]LogTexture:Display: Building textures: LQ_Lightmap_1_63 (DXT1, 512X512)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_195 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_197 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_198 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_199 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_200 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_201 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_202 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_205 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_203 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_206 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_204 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_207 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_208 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_209 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_210 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_212 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_196 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_211 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_215 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_219 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_213 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_220 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_221 (G8, 256X256)
+[2017.07.10-22.50.51:756][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_216 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_214 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_222 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_225 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_224 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_229 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_223 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_226 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_228 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_231 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_232 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_230 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_234 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_236 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_237 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_238 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_239 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_218 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_240 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_242 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_233 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_245 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_244 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_227 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_246 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_248 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_247 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_243 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_217 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_249 (G8, 256X256)
+[2017.07.10-22.50.51:956][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_250 (G8, 256X256)
+[2017.07.10-22.50.51:957][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_241 (G8, 256X256)
+[2017.07.10-22.50.51:957][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_252 (G8, 256X256)
+[2017.07.10-22.50.52:161][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_254 (G8, 256X256)
+[2017.07.10-22.50.52:161][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_253 (G8, 256X256)
+[2017.07.10-22.50.52:161][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_251 (G8, 256X256)
+[2017.07.10-22.50.52:161][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_255 (G8, 256X256)
+[2017.07.10-22.50.52:161][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_256 (G8, 256X256)
+[2017.07.10-22.50.52:165][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_259 (G8, 32X32)
+[2017.07.10-22.50.52:165][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_258 (G8, 256X256)
+[2017.07.10-22.50.52:165][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_257 (G8, 256X256)
+[2017.07.10-22.50.52:166][ 11]LogTexture:Display: Building textures: ShadowMapTexture2D_235 (G8, 256X256)
+[2017.07.10-22.50.53:206][ 11]Lightmass on R902FG1H: 2:49 min total, 2.44 sec importing, 4.48 sec setup, 14.1 sec photons, 2:28 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 17:18 min total, 9:57 min processing.
+[2017.07.10-22.50.53:206][ 11]LogStaticLightingSystem: Illumination: 3:19 min (4.31 sec encoding lightmaps, 7.23 sec encoding shadowmaps)
+[2017.07.10-22.50.53:206][ 11]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2017.07.10-22.50.53:206][ 11]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2017.07.10-22.51.18:540][ 11]DumpUnbuiltLightIteractions
+[2017.07.10-22.51.18:540][ 11]Lights with unbuilt interactions: 0
+[2017.07.10-22.51.18:540][ 11]
+[2017.07.10-22.51.18:540][ 11]Primitives with unbuilt interactions: 0
+[2017.07.10-22.51.18:589][ 12]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.07.10-22.51.18:681][ 12]MapCheck: New page: BattleTankGame - Jul 10, 2017, 2:51:18 PM
+[2017.07.10-22.51.37:566][ 12]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 18,884.307ms to complete.
+[2017.07.10-22.51.57:195][284]LogTexture:Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2017.07.10-22.51.57:200][284]LogTexture:Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2017.07.10-22.51.57:203][284]LogTexture:Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2017.07.10-22.51.57:278][284]LogTexture:Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2017.07.10-22.51.57:909][284]LogSavePackage: Save=823.23ms
+[2017.07.10-22.51.57:909][284]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameE4A3092A4D0F5AD9A0FE10A9C234D910.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-22.51.57:912][284]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-22.51.59:382][284]LogSavePackage: Save=1239.48ms
+[2017.07.10-22.51.59:382][284]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataAFF0F3794DDACBC46CCE458605435100.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-22.51.59:383][284]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
