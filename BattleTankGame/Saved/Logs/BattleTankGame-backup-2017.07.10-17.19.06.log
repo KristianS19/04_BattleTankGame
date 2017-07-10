@@ -1,0 +1,752 @@
+﻿Log file open, 07/07/17 17:29:17
+LogInit:Display: Running engine for game: BattleTankGame
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1911916593) SRandInit(1911916593).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.088696
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.16-CL-3514769
+LogInit: Engine Version: 4.16.2-3514769+++UE4+Release-4.16
+LogInit: Compatible Engine Version: 4.16.0-3452394+++UE4+Release-4.16
+LogInit: Net CL: 3452394
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 9
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 17
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 23
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 15
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 3
+LogInit: Compiled (64-bit): Jun 29 2017 02:03:24
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.16
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.07.07-21.29.17:931][  0]LogInit: Selected Device Profile: [Windows]
+[2017.07.07-21.29.17:931][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.07.07-21.29.17:939][  0]LogInit: Computer: R902FG1H
+[2017.07.07-21.29.17:939][  0]LogInit: User: Student
+[2017.07.07-21.29.17:939][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.07.07-21.29.17:939][  0]LogInit: High frequency timer resolution =2.338378 MHz
+[2017.07.07-21.29.17:939][  0]LogMemory: Memory total: Physical=7.6GB (8GB approx)
+[2017.07.07-21.29.17:939][  0]LogMemory: Platform Memory Stats for Windows
+[2017.07.07-21.29.17:939][  0]LogMemory: Process Physical Memory: 275.21 MB used, 275.21 MB peak
+[2017.07.07-21.29.17:939][  0]LogMemory: Process Virtual Memory: 263.90 MB used, 263.90 MB peak
+[2017.07.07-21.29.17:939][  0]LogMemory: Physical Memory: 5652.37 MB used,  2164.85 MB free, 7817.21 MB total
+[2017.07.07-21.29.17:939][  0]LogMemory: Virtual Memory: 622.53 MB used,  2164.85 MB free, 8388608.00 MB total
+[2017.07.07-21.29.18:425][  0]LogInit: Using OS detected language (en-US).
+[2017.07.07-21.29.18:425][  0]LogInit: Using OS detected locale (en-US).
+[2017.07.07-21.29.18:489][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.07.07-21.29.20:744][  0]LogD3D11RHI: D3D11 adapters:
+[2017.07.07-21.29.20:758][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.07.07-21.29.20:758][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.07.07-21.29.20:758][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.07.07-21.29.20:769][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.07.07-21.29.20:769][  0]LogD3D11RHI:     GPU DeviceId: 0x416 (for the marketing name, search the web for "GPU Device Id")
+[2017.07.07-21.29.20:769][  0]LogWindows: EnumDisplayDevices:
+[2017.07.07-21.29.20:769][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.07.07-21.29.20:769][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.07.07-21.29.20:769][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.07.07-21.29.20:770][  0]LogWindows:    3. 'RDPDD Chained DD' (P:0 D:0)
+[2017.07.07-21.29.20:770][  0]LogWindows:    4. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.07.07-21.29.20:770][  0]LogWindows:    5. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.07.07-21.29.20:770][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2017.07.07-21.29.20:770][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics Family
+[2017.07.07-21.29.20:770][  0]LogD3D11RHI:   Driver Version: 9.18.10.3272 (internal:9.18.10.3272, unified:9.18.10.3272)
+[2017.07.07-21.29.20:770][  0]LogD3D11RHI:      Driver Date: 8-8-2013
+[2017.07.07-21.29.20:770][  0]LogRHI: Texture pool is 616 MB (70% of 880 MB)
+[2017.07.07-21.29.20:778][  0]LogD3D11RHI: Async texture creation enabled
+[2017.07.07-21.29.20:784][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.07.07-21.29.20:784][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Intermediate/Shaders/WorkingDirectory/12640/).
+[2017.07.07-21.29.20:784][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Student/AppData/Local/Temp/UnrealShaderWorkingDir/1E354AC24CF405B2CE4725BCFB6F0115/'.
+[2017.07.07-21.29.20:784][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.07.07-21.29.22:180][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.07.07-21.29.22:221][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.07.07-21.29.22:262][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.07.07-21.29.22:304][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.07.07-21.29.22:346][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.07.07-21.29.22:389][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.07.07-21.29.22:431][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.07.07-21.29.22:473][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.07.07-21.29.22:509][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.07.07-21.29.22:550][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.07.07-21.29.22:592][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.07.07-21.29.22:634][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.07.07-21.29.22:675][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.07.07-21.29.22:717][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.07.07-21.29.22:759][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.07.07-21.29.22:843][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.07.07-21.29.22:843][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.07.07-21.29.22:873][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.07.07-21.29.22:951][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.07.07-21.29.22:977][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.07.07-21.29.23:020][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.07.07-21.29.23:065][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.07.07-21.29.23:108][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.07.07-21.29.23:152][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.07.07-21.29.23:152][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.07.07-21.29.23:530][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.07.07-21.29.23:670][  0]LogDerivedDataCache: Loaded boot cache 0.14s 90MB C:/Users/Student/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2017.07.07-21.29.23:670][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Student/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc
+[2017.07.07-21.29.23:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.07.07-21.29.23:670][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.07.07-21.29.23:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.07.07-21.29.23:670][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.07.07-21.29.23:689][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.07.07-21.29.23:700][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.07.07-21.29.23:711][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.07.07-21.29.23:711][  0]LogSlate: Using Freetype 2.6.0
+[2017.07.07-21.29.23:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.07.07-21.29.23:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.07.07-21.29.24:083][  0]LogInit: Selected Device Profile: [Windows]
+[2017.07.07-21.29.24:088][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.07.07-21.29.24:321][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.07.07-21.29.24:355][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.07.07-21.29.24:390][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.07.07-21.29.24:390][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.07.07-21.29.24:390][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.07.07-21.29.25:481][  0]LogNetVersion: BattleTankGame , NetCL: 3452394, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1751818422)
+[2017.07.07-21.29.25:539][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2017.07.07-21.29.25:584][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.028063 seconds
+[2017.07.07-21.29.25:589][  0]LogUObjectArray: 34194 objects as part of root set at end of initial load.
+[2017.07.07-21.29.25:589][  0]LogUObjectAllocator: 7260416 out of 0 bytes used by permanent object pool.
+[2017.07.07-21.29.25:589][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.07.07-21.29.25:635][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.07.07-21.29.27:961][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2017.07.07-21.29.27:982][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.07.07-21.29.28:013][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.07.07-21.29.28:524][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.07.07-21.29.28:856][  0]SourceControl: Info Source control is disabled
+[2017.07.07-21.29.28:936][  0]SourceControl: Info Source control is disabled
+[2017.07.07-21.29.28:972][  0]SourceControl: Info Source control is disabled
+[2017.07.07-21.29.29:007][  0]SourceControl: Info Source control is disabled
+[2017.07.07-21.29.29:511][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.07.07-21.29.30:004][  0]LogEngine: Initializing Engine...
+[2017.07.07-21.29.30:004][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.07.07-21.29.30:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.07.07-21.29.30:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.07.07-21.29.30:444][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.07.07-21.29.30:453][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.07-21.29.30:479][  0]LogInit: FAudioDevice initialized.
+[2017.07.07-21.29.30:575][  0]LogDerivedDataCache: Saved boot cache 0.10s 90MB C:/Users/Student/AppData/Local/UnrealEngine/4.16/DerivedDataCache/Boot.ddc.
+[2017.07.07-21.29.30:585][  0]LogInit: Texture streaming: Enabled
+[2017.07.07-21.29.30:660][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.07.07-21.29.30:829][  0]LogInit: Transaction tracking system initialized
+[2017.07.07-21.29.31:068][  0]BlueprintLog: New page: Editor Load
+[2017.07.07-21.29.31:784][  0]LocalizationService: Info Localization service is disabled
+[2017.07.07-21.29.32:647][  0]LogConsoleResponse:Display: 
+[2017.07.07-21.29.32:796][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.07.07-21.29.32:796][  0]LogCook:Display: Mobile HDR setting 1
+[2017.07.07-21.29.33:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/' took 0.01s
+[2017.07.07-21.29.33:578][  0]SourceControl: Info Source control is disabled
+[2017.07.07-21.29.33:578][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.07.07-21.29.33:579][  0]LightingResults: New page: Lighting Build
+[2017.07.07-21.29.33:610][  0]MapCheck: New page: Map Check
+[2017.07.07-21.29.33:610][  0]LightingResults: New page: Lighting Build
+[2017.07.07-21.29.33:815][  0]LogAIModule: Creating AISystem for world BattleTankGame
+[2017.07.07-21.29.33:819][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.07.07-21.29.33:839][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.07.07-21.29.33:881][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.653ms to complete.
+[2017.07.07-21.29.33:882][  0]LogFileHelpers: Loading map 'BattleTankGame' took 0.303
+[2017.07.07-21.29.34:009][  0]LogCollectionManager: Loaded 0 collections in 0.001207 seconds
+[2017.07.07-21.29.34:076][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Collections/' took 0.01s
+[2017.07.07-21.29.34:076][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Developers/Student/Collections/' took 0.01s
+[2017.07.07-21.29.34:076][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Collections/' took 0.01s
+[2017.07.07-21.29.34:076][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.07.07-21.29.34:086][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2344 classes and 499 folders.
+[2017.07.07-21.29.34:136][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.07.07-21.29.34:168][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.07.07-21.29.34:204][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.07.07-21.29.34:276][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.07.07-21.29.34:279][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.07.07-21.29.34:281][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.07.07-21.29.34:286][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.07.07-21.29.34:387][  0]LogRenderer: Reallocating scene render targets to support 1208x568 NumSamples 1 (Frame:1).
+[2017.07.07-21.29.35:124][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.07-21.29.35:374][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.07.07-21.29.35:428][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.07.07-21.29.35:428][  0]LogLoad: (Engine Initialization) Total time: 19.78 seconds
+[2017.07.07-21.29.35:428][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.08 seconds
+[2017.07.07-21.29.35:428][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.07.07-21.29.35:428][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.07.07-21.29.35:767][  0]LogOcInput: OculusInput pre-init called
+[2017.07.07-21.29.35:767][  0]LogHMD: Starting GearVRController plugin
+[2017.07.07-21.29.35:797][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.07.07-21.29.36:452][  2]LogAssetRegistry: Asset discovery search completed in 10.9345 seconds
+[2017.07.07-21.29.36:457][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.07.07-21.29.36:458][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000130 seconds (updated 0 objects)
+[2017.07.07-21.31.14:634][637]LogTexture:Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.07.07-21.31.15:605][658]LogEditorSelectUtils:Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Landscape)
+[2017.07.07-21.31.15:605][658]LogActorComponent: RegisterComponentWithWorld: (/Game/BattleTankGame.BattleTankGame:PersistentLevel.Landscape_2.RootComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.07.07-21.31.15:605][658]LogEditorSelectUtils:Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (Landscape)
+[2017.07.07-21.39.29:277][842]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.07-21.39.38:289][ 62]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.07.07-21.39.38:490][ 62]LogSavePackage: Save=81.16ms
+[2017.07.07-21.39.38:490][ 62]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_Auto1441166E24974168BC7EF4E9EA1176CDC.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Autosaves/Game/BattleTankGame_Auto1.umap'
+[2017.07.07-21.39.38:491][ 62]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Autosaves/Game/BattleTankGame_Auto1.umap
+[2017.07.07-21.39.38:492][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleTankGame' took 0.153
+[2017.07.07-21.39.38:492][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.153
+[2017.07.07-21.40.39:578][168]LogTexture:Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.07.07-21.40.39:605][168]LogTexture:Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2017.07.07-21.40.39:620][168]LogTexture:Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2017.07.07-21.40.39:638][168]LogTexture:Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2017.07.07-21.40.39:651][168]LogTexture:Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2017.07.07-21.40.39:663][168]LogTexture:Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2017.07.07-21.40.39:678][168]LogTexture:Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2017.07.07-21.40.39:691][168]LogTexture:Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2017.07.07-21.40.39:702][168]LogTexture:Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2017.07.07-21.40.39:714][168]LogTexture:Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2017.07.07-21.40.39:727][168]LogTexture:Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2017.07.07-21.40.39:740][168]LogTexture:Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2017.07.07-21.40.39:752][168]LogTexture:Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2017.07.07-21.40.39:785][168]LogTexture:Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2017.07.07-21.40.39:797][168]LogTexture:Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2017.07.07-21.40.39:810][168]LogTexture:Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2017.07.07-21.40.39:838][168]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.07.07-21.40.50:521][202]LogSavePackage: Save=677.68ms
+[2017.07.07-21.40.50:521][202]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameD2098107429BA6E499561DAE96BE07F2.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.07-21.40.51:845][202]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.07.07-21.40.51:856][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.07-21.43.39:169][697]MapCheck: New page: Map Check
+[2017.07.07-21.43.39:367][697]LightingResults: New page: Lighting Build - Jul 7, 2017, 1:43:39 PM
+[2017.07.07-21.43.40:208][697]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.07.07-21.43.40:403][697]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.07.07-21.43.40:614][697]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.07.07-21.43.43:821][697]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.07.07-21.43.43:821][697]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12640
+[2017.07.07-21.43.59:335][697]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.07.07-21.43.59:335][697]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.07.07-21.43.59:335][697]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.07.07-21.43.59:335][697]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.07.07-21.43.59:335][697]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.07.07-21.44.01:681][697]LogEditorBuildUtils: Build time 0:22
+[2017.07.07-21.44.01:774][698]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2017.07.07-21.44.01:813][698]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2017.07.07-21.46.58:186][493]Job is a success!
+[2017.07.07-21.47.02:060][494]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:060][494]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.07.07-21.47.02:060][494]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_22 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_23 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_24 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_25 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_26 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_27 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_30 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_28 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_31 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_33 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_34 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_35 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_36 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_37 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_38 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_39 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_40 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_41 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_42 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_43 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_29 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_45 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_47 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_48 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_49 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_51 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_52 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_53 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_55 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_57 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: LQ_Lightmap_0_54 (DXT1, 512X512)
+[2017.07.07-21.47.02:061][494]LogTexture:Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_58 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_46 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_32 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_60 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_61 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_62 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_63 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_64 (DXT1, 512X512)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 64X64)
+[2017.07.07-21.47.02:062][494]LogTexture:Display: Building textures: LQ_Lightmap_0_65 (DXT1, 64X64)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2017.07.07-21.47.06:482][494]LogTexture:Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_38 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_42 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_41 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_39 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_44 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_40 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_43 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_45 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_46 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_47 (G8, 256X256)
+[2017.07.07-21.47.06:682][494]LogTexture:Display: Building textures: ShadowMapTexture2D_48 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_49 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_51 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_50 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_52 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_53 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_54 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_55 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_56 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_57 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_58 (G8, 256X256)
+[2017.07.07-21.47.06:683][494]LogTexture:Display: Building textures: ShadowMapTexture2D_59 (G8, 256X256)
+[2017.07.07-21.47.06:699][494]LogTexture:Display: Building textures: ShadowMapTexture2D_60 (G8, 256X256)
+[2017.07.07-21.47.06:699][494]LogTexture:Display: Building textures: ShadowMapTexture2D_61 (G8, 256X256)
+[2017.07.07-21.47.06:699][494]LogTexture:Display: Building textures: ShadowMapTexture2D_64 (G8, 32X32)
+[2017.07.07-21.47.06:699][494]LogTexture:Display: Building textures: ShadowMapTexture2D_62 (G8, 256X256)
+[2017.07.07-21.47.06:699][494]LogTexture:Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2017.07.07-21.47.24:973][494]Lightmass on R902FG1H: 2:46 min total, 2.52 sec importing, 5.77 sec setup, 14.3 sec photons, 2:23 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 16:44 min total, 12:59 min processing.
+[2017.07.07-21.47.25:095][494]LogStaticLightingSystem: Illumination: 3:45 min (1.91 sec encoding lightmaps, 4.63 sec encoding shadowmaps)
+[2017.07.07-21.47.25:095][494]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2017.07.07-21.47.25:095][494]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2017.07.07-21.47.25:414][494]DumpUnbuiltLightIteractions
+[2017.07.07-21.47.25:414][494]Lights with unbuilt interactions: 0
+[2017.07.07-21.47.25:414][494]
+[2017.07.07-21.47.25:414][494]Primitives with unbuilt interactions: 0
+[2017.07.07-21.47.25:448][495]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.07.07-21.47.25:449][495]MapCheck: New page: BattleTankGame - Jul 7, 2017, 1:47:25 PM
+[2017.07.07-21.47.25:597][495]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 148.597ms to complete.
+[2017.07.07-21.49.05:751][225]LogSavePackage: Save=322.71ms
+[2017.07.07-21.49.05:751][225]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameEF026C2F4DC5A72BBF5D3EAB9D24DD3B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.07-21.49.05:754][225]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.07-21.49.06:356][225]LogSavePackage: Save=540.16ms
+[2017.07.07-21.49.06:356][225]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataE47B8C9642BA07CDF684FC8279FFF553.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.07-21.49.06:358][225]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.07-21.49.10:979][290]Cmd: QUIT_EDITOR
+[2017.07.07-21.49.11:578][290]LogExit: Preparing to exit.
+[2017.07.07-21.49.13:317][290]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/' was aborted.
+[2017.07.07-21.49.13:575][290]LogExit: Editor shut down
+[2017.07.07-21.49.13:589][290]LogExit: Transaction tracking system shut down
+[2017.07.07-21.49.15:866][290]LogObj: Freed 0b from 0 cluster array pools.
+[2017.07.07-21.49.15:866][290]LogExit: Object subsystem successfully closed.
+[2017.07.07-21.49.16:098][290]LogD3D11RHI: Shutdown
+[2017.07.07-21.49.16:098][290]LogD3D11RHI: CleanupD3DDevice
+[2017.07.07-21.49.16:268][290]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.07.07-21.49.17:121][290]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.07.07-21.49.17:141][290]LogModuleManager: Shutting down and abandoning module CrashTracker (528)
+[2017.07.07-21.49.17:141][290]LogModuleManager: Shutting down and abandoning module SceneOutliner (526)
+[2017.07.07-21.49.17:141][290]LogModuleManager: Shutting down and abandoning module AddContentDialog (524)
+[2017.07.07-21.49.17:155][290]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2017.07.07-21.49.17:156][290]LogModuleManager: Shutting down and abandoning module WidgetCarousel (523)
+[2017.07.07-21.49.17:156][290]LogModuleManager: Shutting down and abandoning module EditorWidgets (520)
+[2017.07.07-21.49.17:156][290]LogModuleManager: Shutting down and abandoning module CollectionManager (518)
+[2017.07.07-21.49.17:156][290]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Collections/' was aborted.
+[2017.07.07-21.49.17:156][290]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Developers/Student/Collections/' was aborted.
+[2017.07.07-21.49.17:156][290]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Collections/' was aborted.
+[2017.07.07-21.49.17:157][290]LogModuleManager: Shutting down and abandoning module StatsViewer (516)
+[2017.07.07-21.49.17:157][290]LogModuleManager: Shutting down and abandoning module FoliageEdit (514)
+[2017.07.07-21.49.17:157][290]LogModuleManager: Shutting down and abandoning module LandscapeEditor (512)
+[2017.07.07-21.49.17:278][290]LogModuleManager: Shutting down and abandoning module MeshPaintMode (510)
+[2017.07.07-21.49.17:278][290]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (508)
+[2017.07.07-21.49.17:278][290]LogModuleManager: Shutting down and abandoning module ActorPickerMode (506)
+[2017.07.07-21.49.17:278][290]LogModuleManager: Shutting down and abandoning module GeometryMode (504)
+[2017.07.07-21.49.17:278][290]LogModuleManager: Shutting down and abandoning module TextureAlignMode (502)
+[2017.07.07-21.49.17:278][290]LogModuleManager: Shutting down and abandoning module BspMode (500)
+[2017.07.07-21.49.17:285][290]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.07.07-21.49.17:302][290]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.07.07-21.49.17:318][290]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.07.07-21.49.17:325][290]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.07.07-21.49.17:336][290]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.07.07-21.49.17:411][290]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.07.07-21.49.17:442][290]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.07.07-21.49.17:499][290]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.07.07-21.49.17:499][290]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.07.07-21.49.17:499][290]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.07.07-21.49.17:499][290]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.07.07-21.49.17:499][290]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.07.07-21.49.17:577][290]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.07.07-21.49.17:614][290]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.07.07-21.49.17:657][290]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.07.07-21.49.17:763][290]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (450)
+[2017.07.07-21.49.17:763][290]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (448)
+[2017.07.07-21.49.17:775][290]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (446)
+[2017.07.07-21.49.17:775][290]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (444)
+[2017.07.07-21.49.17:775][290]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (443)
+[2017.07.07-21.49.18:152][290]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.07.07-21.49.18:152][290]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.07.07-21.49.18:152][290]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.07.07-21.49.18:170][290]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.07.07-21.49.18:175][290]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.07.07-21.49.18:175][290]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.07.07-21.49.18:181][290]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.07.07-21.49.18:187][290]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.07.07-21.49.18:200][290]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.07.07-21.49.18:227][290]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.07.07-21.49.18:227][290]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.07.07-21.49.18:232][290]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.07.07-21.49.18:239][290]LogModuleManager: Shutting down and abandoning module UserFeedback (416)
+[2017.07.07-21.49.18:239][290]LogModuleManager: Shutting down and abandoning module XmlParser (414)
+[2017.07.07-21.49.18:261][290]LogModuleManager: Shutting down and abandoning module Blutility (412)
+[2017.07.07-21.49.18:281][290]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (410)
+[2017.07.07-21.49.18:281][290]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (409)
+[2017.07.07-21.49.18:281][290]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (406)
+[2017.07.07-21.49.18:281][290]LogModuleManager: Shutting down and abandoning module SettingsEditor (404)
+[2017.07.07-21.49.18:290][290]LogModuleManager: Shutting down and abandoning module ProjectLauncher (402)
+[2017.07.07-21.49.18:426][290]LogModuleManager: Shutting down and abandoning module SessionFrontend (400)
+[2017.07.07-21.49.18:481][290]LogModuleManager: Shutting down and abandoning module ProfilerClient (398)
+[2017.07.07-21.49.18:518][290]LogModuleManager: Shutting down and abandoning module DeviceManager (396)
+[2017.07.07-21.49.18:543][290]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (395)
+[2017.07.07-21.49.18:593][290]LogModuleManager: Shutting down and abandoning module AutomationController (392)
+[2017.07.07-21.49.18:645][290]LogModuleManager: Shutting down and abandoning module AutomationWindow (390)
+[2017.07.07-21.49.18:667][290]LogModuleManager: Shutting down and abandoning module Layers (388)
+[2017.07.07-21.49.18:764][290]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (386)
+[2017.07.07-21.49.18:764][290]LogModuleManager: Shutting down and abandoning module DetailCustomizations (384)
+[2017.07.07-21.49.18:767][290]LogModuleManager: Shutting down and abandoning module PackagesDialog (382)
+[2017.07.07-21.49.18:777][290]LogModuleManager: Shutting down and abandoning module Persona (380)
+[2017.07.07-21.49.18:807][290]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (379)
+[2017.07.07-21.49.18:807][290]LogModuleManager: Shutting down and abandoning module AnimGraph (377)
+[2017.07.07-21.49.18:807][290]LogModuleManager: Shutting down and abandoning module Kismet (374)
+[2017.07.07-21.49.18:820][290]LogModuleManager: Shutting down and abandoning module ClassViewer (372)
+[2017.07.07-21.49.18:820][290]LogModuleManager: Shutting down and abandoning module Toolbox (370)
+[2017.07.07-21.49.18:843][290]LogModuleManager: Shutting down and abandoning module ModuleUI (368)
+[2017.07.07-21.49.18:862][290]LogModuleManager: Shutting down and abandoning module MovieSceneTools (366)
+[2017.07.07-21.49.18:879][290]LogModuleManager: Shutting down and abandoning module OutputLog (364)
+[2017.07.07-21.49.18:879][290]LogModuleManager: Shutting down and abandoning module GammaUI (362)
+[2017.07.07-21.49.18:885][290]LogModuleManager: Shutting down and abandoning module Documentation (360)
+[2017.07.07-21.49.18:885][290]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (358)
+[2017.07.07-21.49.18:885][290]LogModuleManager: Shutting down and abandoning module MovieScene (356)
+[2017.07.07-21.49.18:885][290]LogModuleManager: Shutting down and abandoning module Niagara (354)
+[2017.07.07-21.49.18:885][290]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (350)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.07.07-21.49.18:924][290]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.07.07-21.49.18:929][290]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.07.07-21.49.18:940][290]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.07.07-21.49.19:180][290]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.07.07-21.49.19:281][290]LogModuleManager: Shutting down and abandoning module SubstanceEditor (330)
+[2017.07.07-21.49.19:330][290]LogModuleManager: Shutting down and abandoning module SteamVRController (328)
+[2017.07.07-21.49.19:330][290]LogModuleManager: Shutting down and abandoning module SteamVR (326)
+[2017.07.07-21.49.19:330][290]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (324)
+[2017.07.07-21.49.19:411][290]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2017.07.07-21.49.19:432][290]LogModuleManager: Shutting down and abandoning module OculusLibrary (320)
+[2017.07.07-21.49.19:432][290]LogModuleManager: Shutting down and abandoning module OculusInput (318)
+[2017.07.07-21.49.19:433][290]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (316)
+[2017.07.07-21.49.19:433][290]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2017.07.07-21.49.19:433][290]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2017.07.07-21.49.19:453][290]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (310)
+[2017.07.07-21.49.19:454][290]LogModuleManager: Shutting down and abandoning module AndroidPermission (308)
+[2017.07.07-21.49.19:454][290]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (304)
+[2017.07.07-21.49.19:473][290]LogModuleManager: Shutting down and abandoning module HTML5Networking (302)
+[2017.07.07-21.49.19:473][290]LogModuleManager: Shutting down and abandoning module AlembicImporter (300)
+[2017.07.07-21.49.19:479][290]LogModuleManager: Shutting down and abandoning module AlembicLibrary (299)
+[2017.07.07-21.49.19:479][290]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2017.07.07-21.49.19:490][290]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2017.07.07-21.49.19:490][290]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (292)
+[2017.07.07-21.49.19:490][290]LogModuleManager: Shutting down and abandoning module SuperSearch (291)
+[2017.07.07-21.49.19:490][290]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (288)
+[2017.07.07-21.49.19:490][290]LogModuleManager: Shutting down and abandoning module PluginBrowser (286)
+[2017.07.07-21.49.19:516][290]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (284)
+[2017.07.07-21.49.19:531][290]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (282)
+[2017.07.07-21.49.19:531][290]LogModuleManager: Shutting down and abandoning module DesktopPlatform (281)
+[2017.07.07-21.49.19:545][290]LogModuleManager: Shutting down and abandoning module UObjectPlugin (278)
+[2017.07.07-21.49.19:545][290]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (276)
+[2017.07.07-21.49.19:586][290]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (274)
+[2017.07.07-21.49.19:600][290]LogModuleManager: Shutting down and abandoning module GitSourceControl (272)
+[2017.07.07-21.49.19:642][290]LogModuleManager: Shutting down and abandoning module SourceControl (271)
+[2017.07.07-21.49.19:732][290]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (268)
+[2017.07.07-21.49.19:732][290]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (266)
+[2017.07.07-21.49.19:732][290]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (264)
+[2017.07.07-21.49.19:732][290]LogModuleManager: Shutting down and abandoning module Paper2DEditor (262)
+[2017.07.07-21.49.19:752][290]LogModuleManager: Shutting down and abandoning module MeshPaint (261)
+[2017.07.07-21.49.19:762][290]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2017.07.07-21.49.19:774][290]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2017.07.07-21.49.19:787][290]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2017.07.07-21.49.19:792][290]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2017.07.07-21.49.19:798][290]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Binaries/Win64' was aborted.
+[2017.07.07-21.49.19:800][290]LogModuleManager: Shutting down and abandoning module BattleTankGame (250)
+[2017.07.07-21.49.19:800][290]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2017.07.07-21.49.19:840][290]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2017.07.07-21.49.19:840][290]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2017.07.07-21.49.19:840][290]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (242)
+[2017.07.07-21.49.19:840][290]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (240)
+[2017.07.07-21.49.19:864][290]LogModuleManager: Shutting down and abandoning module UdpMessaging (238)
+[2017.07.07-21.49.19:964][290]LogModuleManager: Shutting down and abandoning module TcpMessaging (236)
+[2017.07.07-21.49.20:089][290]LogModuleManager: Shutting down and abandoning module SubstanceCore (234)
+[2017.07.07-21.49.20:216][290]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2017.07.07-21.49.20:242][290]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2017.07.07-21.49.20:247][290]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2017.07.07-21.49.20:247][290]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2017.07.07-21.49.20:260][290]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2017.07.07-21.49.20:315][290]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2017.07.07-21.49.20:318][290]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2017.07.07-21.49.20:318][290]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2017.07.07-21.49.20:322][290]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2017.07.07-21.49.20:322][290]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2017.07.07-21.49.20:390][290]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2017.07.07-21.49.20:400][290]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2017.07.07-21.49.20:418][290]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2017.07.07-21.49.20:418][290]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2017.07.07-21.49.20:430][290]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2017.07.07-21.49.20:442][290]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2017.07.07-21.49.20:459][290]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2017.07.07-21.49.20:459][290]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2017.07.07-21.49.20:490][290]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2017.07.07-21.49.20:490][290]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2017.07.07-21.49.20:512][290]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2017.07.07-21.49.20:525][290]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2017.07.07-21.49.20:568][290]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2017.07.07-21.49.20:590][290]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2017.07.07-21.49.20:650][290]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2017.07.07-21.49.20:650][290]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2017.07.07-21.49.20:650][290]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2017.07.07-21.49.20:674][290]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2017.07.07-21.49.20:674][290]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2017.07.07-21.49.20:682][290]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2017.07.07-21.49.20:682][290]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2017.07.07-21.49.20:682][290]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2017.07.07-21.49.20:682][290]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2017.07.07-21.49.20:682][290]LogModuleManager: Shutting down and abandoning module Core (164)
+[2017.07.07-21.49.20:682][290]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2017.07.07-21.49.20:822][290]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.07.07-21.49.20:822][290]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/' was aborted.
+[2017.07.07-21.49.20:822][290]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.07.07-21.49.20:822][290]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2017.07.07-21.49.20:861][290]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2017.07.07-21.49.20:861][290]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2017.07.07-21.49.20:862][290]LogModuleManager: Shutting down and abandoning module PhysXFormats (156)
+[2017.07.07-21.49.20:862][290]LogModuleManager: Shutting down and abandoning module MeshUtilities (154)
+[2017.07.07-21.49.20:880][290]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (153)
+[2017.07.07-21.49.20:898][290]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (151)
+[2017.07.07-21.49.20:898][290]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (149)
+[2017.07.07-21.49.20:918][290]LogModuleManager: Shutting down and abandoning module LevelSequence (146)
+[2017.07.07-21.49.20:918][290]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.07.07-21.49.20:982][290]LogDerivedDataCache: Shutdown
+[2017.07.07-21.49.20:982][290]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.07.07-21.49.20:982][290]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.07.07-21.49.21:001][290]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.07.07-21.49.21:014][290]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.07.07-21.49.21:030][290]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.07.07-21.49.21:038][290]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.07.07-21.49.21:053][290]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.07.07-21.49.21:053][290]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.07.07-21.49.21:053][290]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.07.07-21.49.21:053][290]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.07.07-21.49.21:060][290]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.07.07-21.49.21:071][290]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.07.07-21.49.21:071][290]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.07.07-21.49.21:076][290]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.07.07-21.49.21:082][290]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.07.07-21.49.21:086][290]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.07.07-21.49.21:096][290]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.07.07-21.49.21:096][290]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.07.07-21.49.21:101][290]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2017.07.07-21.49.21:106][290]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2017.07.07-21.49.21:106][290]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2017.07.07-21.49.21:118][290]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.07.07-21.49.21:118][290]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.07.07-21.49.21:118][290]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.07.07-21.49.21:118][290]LogOnline:Display: Unloading online subsystem: NULL
+[2017.07.07-21.49.21:148][290]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.07.07-21.49.21:244][290]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.07.07-21.49.21:244][290]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.07.07-21.49.21:286][290]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6ACAB800-4897-CF86-C609-069AA7CBC9B4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.2-3514769%2B%2B%2BUE4%2BRelease-4.16&UserID=5e54d1554136225e53d3f2a6ec45e9e6%7C9d7b80dcd27b444daf1da3ca20cd21b0%7C585a0d64-0c68-4b92-a631-2c91e887e7ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.07.07-21.49.21:292][290]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.07.07-21.49.21:308][290]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2017.07.07-21.49.21:321][290]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.07.07-21.49.21:331][290]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.07.07-21.49.21:331][290]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.07.07-21.49.21:333][290]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.07.07-21.49.21:333][290]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.07.07-21.49.21:333][290]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.07.07-21.49.21:333][290]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.07.07-21.49.21:346][290]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.07.07-21.49.21:355][290]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.07.07-21.49.21:355][290]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.07.07-21.49.21:364][290]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.07.07-21.49.21:364][290]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.07.07-21.49.21:364][290]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.07.07-21.49.21:364][290]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.07.07-21.49.21:375][290]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.07.07-21.49.21:382][290]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.07.07-21.49.21:387][290]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.07.07-21.49.21:400][290]LogExit: Exiting.
+[2017.07.07-21.49.21:430][290]Log file closed, 07/07/17 17:49:21
