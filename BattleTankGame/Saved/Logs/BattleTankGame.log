@@ -1201,3 +1201,869 @@ Exception rethrown at [0]:
 [2017.07.10-22.51.59:382][284]LogSavePackage: Save=1239.48ms
 [2017.07.10-22.51.59:382][284]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataAFF0F3794DDACBC46CCE458605435100.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
 [2017.07.10-22.51.59:383][284]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-22.57.24:152][758]LogEditorActor: Deleted Actor: Landscape
+[2017.07.10-22.57.24:288][758]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2017.07.10-22.57.26:266][817]LogSavePackage: Save=61.13ms
+[2017.07.10-22.57.26:266][817]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame8BA2D3004A039B6826BBBFA43398968E.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-22.57.26:269][817]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-22.57.26:990][817]LogSavePackage: Save=700.14ms
+[2017.07.10-22.57.26:990][817]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataF829CDDA4A37B9131D58878D2F02A2EF.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-22.57.27:014][817]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.03.05:289][447]LogTexture:Display: Building textures: Texture2D_4 (G8, 128X128)
+[2017.07.10-23.03.18:295][809]LogSavePackage: Save=56.76ms
+[2017.07.10-23.03.18:295][809]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame0E968CB2436D74F48B809FB2DFCCA5E7.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.03.18:312][809]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.03.19:037][809]LogSavePackage: Save=700.62ms
+[2017.07.10-23.03.19:037][809]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData004D9B5A47BD01FBD04685900A1A88C2.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.03.19:039][809]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.03.24:961][965]Cmd: TRANSACTION UNDO
+[2017.07.10-23.03.24:961][965]LogEditorTransaction: Undo Move Actors
+[2017.07.10-23.04.02:561][ 25]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.07.10-23.04.11:112][257]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.07.10-23.04.39:427][104]LogEditorViewport: Clicking Background
+[2017.07.10-23.05.21:979][137]LogSavePackage: Save=57.43ms
+[2017.07.10-23.05.21:979][137]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameDA7FC8FB474771D04AB45E8B04E94F57.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.05.21:980][137]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.05.22:716][137]LogSavePackage: Save=716.71ms
+[2017.07.10-23.05.22:716][137]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataE0B5BC9F40616EA7909586850BAE59BC.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.05.22:718][137]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.05.26:493][211]LogTexture:Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2017.07.10-23.06.00:461][ 73]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.07.10-23.06.00:514][ 73]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.07.10-23.06.31:990][ 29]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.07.10-23.06.36:160][143]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.07.10-23.06.38:087][191]LogSavePackage: Save=269.07ms
+[2017.07.10-23.06.38:087][191]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameC24C5FA945136681BEB97092F0ECF7AA.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.06.38:088][191]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.06.38:928][191]LogSavePackage: Save=821.44ms
+[2017.07.10-23.06.38:928][191]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataC1CED0D04409F3712C1201BAFAC1D739.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.06.38:930][191]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.07.44:120][958]LogSavePackage: Save=133.98ms
+[2017.07.10-23.07.44:120][958]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame2A64FED74778179C48779CBF4EB54B18.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.07.44:121][958]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.07.44:814][958]LogSavePackage: Save=675.37ms
+[2017.07.10-23.07.44:814][958]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData3B247D4447F886732D2DCA863091BB39.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.07.44:816][958]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.07.54:568][241]LogSavePackage: Save=134.43ms
+[2017.07.10-23.07.54:568][241]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame958AC0224556B51B9C9EC594F67D9DC8.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.07.54:569][241]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.07.55:266][241]LogSavePackage: Save=679.41ms
+[2017.07.10-23.07.55:266][241]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataE77F6C9B4E6AA03F382CF28FFB03B94D.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.07.55:268][241]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.08.46:273][576]LogTexture:Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2017.07.10-23.08.46:400][576]LogSavePackage: Save=146.70ms
+[2017.07.10-23.08.46:400][576]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame2DBB9D9A406BBE34D55C41B71305805F.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.08.46:401][576]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.08.47:110][576]LogSavePackage: Save=680.41ms
+[2017.07.10-23.08.47:110][576]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData74A83C6C4C0BF9404CDB23A004F8A152.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.08.47:111][576]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.09.05:332][949]LogTexture:Display: Building textures: Texture2D_42 (BGRA8, 128X128)
+[2017.07.10-23.09.05:495][949]LogSavePackage: Save=182.89ms
+[2017.07.10-23.09.05:495][949]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameAC6B20434FA59033911DDF9C6BB6EFE0.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.09.05:496][949]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.09.06:249][949]LogSavePackage: Save=735.29ms
+[2017.07.10-23.09.06:249][949]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData3FB4B56240B88EEDA21C00A9167692F4.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.09.06:252][949]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.09.53:252][772]Cmd: TRANSACTION UNDO
+[2017.07.10-23.09.53:252][772]LogEditorTransaction: Undo Edit Brush Size
+[2017.07.10-23.09.53:517][777]Cmd: TRANSACTION UNDO
+[2017.07.10-23.09.53:517][777]LogEditorTransaction: Undo Edit Tool Strength
+[2017.07.10-23.10.02:755][ 49]LogSavePackage: Save=136.89ms
+[2017.07.10-23.10.02:755][ 49]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame59D61CB14C3EAC144F61A3BC737C0A5B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.10.02:756][ 49]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.10.03:452][ 49]LogSavePackage: Save=678.63ms
+[2017.07.10-23.10.03:452][ 49]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataCB410DD4454F3045C9783BB4316E1EA5.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.10.03:453][ 49]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.10.07:583][175]LogEditorActor: Deleted Actor: Landscape
+[2017.07.10-23.10.07:640][175]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2017.07.10-23.10.09:937][247]LogTexture:Display: Building textures: Texture2D_5 (G8, 128X128)
+[2017.07.10-23.10.17:141][459]Cmd: TRANSACTION UNDO
+[2017.07.10-23.10.17:141][459]LogEditorTransaction: Undo Delete selection
+[2017.07.10-23.10.20:153][564]Cmd: DELETE
+[2017.07.10-23.10.20:153][564]Cmd: ACTOR DELETE
+[2017.07.10-23.10.20:153][564]LogEditorActor: Deleted Actor: Landscape
+[2017.07.10-23.10.20:212][564]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2017.07.10-23.10.22:086][625]LogTexture:Display: Building textures: Texture2D_6 (G8, 128X128)
+[2017.07.10-23.10.28:285][796]Cmd: DELETE
+[2017.07.10-23.10.28:285][796]Cmd: ACTOR DELETE
+[2017.07.10-23.10.28:285][796]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2017.07.10-23.10.28:321][796]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.07.10-23.10.54:510][645]LogTexture:Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2017.07.10-23.10.56:902][704]LogSavePackage: Save=241.06ms
+[2017.07.10-23.10.56:902][704]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame92713A4949E55845E0FAF6880B2F4BFD.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.10.56:903][704]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.10.57:605][704]LogSavePackage: Save=684.00ms
+[2017.07.10-23.10.57:605][704]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataA2902E30435146E34CD88287B0F2D400.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.10.57:607][704]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.11.33:398][791]LogTexture:Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2017.07.10-23.11.33:504][791]LogSavePackage: Save=124.53ms
+[2017.07.10-23.11.33:504][791]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame0B5AF84A4B8246A8E5D9D7BF20B7CC34.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.11.33:505][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.11.34:208][791]LogSavePackage: Save=684.36ms
+[2017.07.10-23.11.34:208][791]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData5F06A8734442C28F1AECF681A4286CA8.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.11.34:210][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.12.00:239][424]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.00:369][424]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.00:385][424]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.01:764][448]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.12.01:764][448]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.12.01:764][448]MaterialEditorStats: Info Texture samplers: 1/16
+[2017.07.10-23.12.44:434][234]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.46:083][262]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.46:186][262]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.46:215][262]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.12.46:261][262]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-23.12.46:272][262]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-23.12.48:642][273]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.12.48:642][273]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.12.48:642][273]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.13.10:436][617]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.13.10:482][617]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.13.10:490][617]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.13.10:507][617]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.13.14:425][714]LogTexture:Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2017.07.10-23.13.14:559][714]LogSavePackage: Save=160.93ms
+[2017.07.10-23.13.14:559][714]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame208E805C4AB02834B1D79F829F8B33AD.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.13.14:573][714]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.13.15:628][714]LogSavePackage: Save=1024.09ms
+[2017.07.10-23.13.15:628][714]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataBA8E70F543A5D47F60B040BCA2161069.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.13.15:631][714]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.14.49:569][455]LogSavePackage: Save=105.12ms
+[2017.07.10-23.14.49:569][455]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame4B94774E4BFEB4AE2B3A438CAD016437.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.14.49:570][455]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.14.50:270][455]LogSavePackage: Save=677.05ms
+[2017.07.10-23.14.50:270][455]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData61E34A164635E3A6C2C25A89A2791713.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.14.50:272][455]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.15.01:857][788]LogTexture:Display: Building textures: Texture2D_7 (G8, 128X128)
+[2017.07.10-23.15.39:988][246]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2017.07.10-23.15.40:028][246]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.15.40:122][246]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2017.07.10-23.15.40:127][246]LogTexture:Display: Building textures: Texture2D_46 (BGRA8, 16X16)
+[2017.07.10-23.15.40:133][246]LogTexture:Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2017.07.10-23.15.40:139][246]LogTexture:Display: Building textures: Texture2D_48 (BGRA8, 16X16)
+[2017.07.10-23.15.40:155][246]LogTexture:Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2017.07.10-23.15.40:161][246]LogTexture:Display: Building textures: Texture2D_50 (BGRA8, 16X16)
+[2017.07.10-23.15.40:170][246]LogTexture:Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2017.07.10-23.15.40:175][246]LogTexture:Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2017.07.10-23.15.40:180][246]LogTexture:Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2017.07.10-23.15.40:258][246]LogTexture:Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2017.07.10-23.15.40:264][246]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.15.40:270][246]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.15.49:419][362]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2017.07.10-23.15.49:419][362]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2017.07.10-23.15.49:419][362]LogTexture:Display: Building textures: Texture2D_46 (BGRA8, 16X16)
+[2017.07.10-23.15.49:420][362]LogTexture:Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2017.07.10-23.15.49:420][362]LogTexture:Display: Building textures: Texture2D_48 (BGRA8, 16X16)
+[2017.07.10-23.15.49:421][362]LogTexture:Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2017.07.10-23.15.49:470][362]LogTexture:Display: Building textures: Texture2D_50 (BGRA8, 16X16)
+[2017.07.10-23.15.49:471][362]LogTexture:Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2017.07.10-23.15.49:471][362]LogTexture:Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2017.07.10-23.15.49:472][362]LogTexture:Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2017.07.10-23.15.49:472][362]LogTexture:Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2017.07.10-23.15.49:472][362]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.15.49:473][362]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.15.49:606][362]LogSavePackage: Save=207.89ms
+[2017.07.10-23.15.49:606][362]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameC8C486ED49EC06B800AD489E0186A550.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.15.49:607][362]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.15.50:306][362]LogSavePackage: Save=680.36ms
+[2017.07.10-23.15.50:306][362]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData1AF42FB045C701A5076CB7B93A2EE5D4.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.15.50:307][362]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.16.17:303][841]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.16.17:349][841]LogTexture:Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2017.07.10-23.16.17:511][843]LogTexture:Display: Building textures: Texture2D_58 (BGRA8, 16X16)
+[2017.07.10-23.16.18:537][867]LogTexture:Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2017.07.10-23.16.18:975][876]LogTexture:Display: Building textures: Texture2D_60 (BGRA8, 16X16)
+[2017.07.10-23.16.49:767][714]LogTexture:Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2017.07.10-23.16.56:703][908]LogTexture:Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2017.07.10-23.16.59:731][990]LogTexture:Display: Building textures: Texture2D_63 (BGRA8, 16X16)
+[2017.07.10-23.17.06:787][186]LogTexture:Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2017.07.10-23.17.09:106][248]LogTexture:Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2017.07.10-23.17.22:480][625]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2017.07.10-23.17.22:480][625]LogTexture:Display: Building textures: Texture2D_63 (BGRA8, 16X16)
+[2017.07.10-23.17.22:512][625]LogTexture:Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2017.07.10-23.17.22:513][625]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2017.07.10-23.17.22:513][625]LogTexture:Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2017.07.10-23.17.22:527][625]LogTexture:Display: Building textures: Texture2D_46 (BGRA8, 16X16)
+[2017.07.10-23.17.22:528][625]LogTexture:Display: Building textures: Texture2D_60 (BGRA8, 16X16)
+[2017.07.10-23.17.22:528][625]LogTexture:Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2017.07.10-23.17.22:528][625]LogTexture:Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2017.07.10-23.17.22:529][625]LogTexture:Display: Building textures: Texture2D_58 (BGRA8, 16X16)
+[2017.07.10-23.17.22:529][625]LogTexture:Display: Building textures: Texture2D_48 (BGRA8, 16X16)
+[2017.07.10-23.17.22:529][625]LogTexture:Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2017.07.10-23.17.22:530][625]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.17.22:547][625]LogTexture:Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2017.07.10-23.17.22:573][625]LogTexture:Display: Building textures: Texture2D_50 (BGRA8, 16X16)
+[2017.07.10-23.17.22:574][625]LogTexture:Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2017.07.10-23.17.22:575][625]LogTexture:Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2017.07.10-23.17.22:576][625]LogTexture:Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2017.07.10-23.17.22:577][625]LogTexture:Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2017.07.10-23.17.22:578][625]LogTexture:Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2017.07.10-23.17.22:578][625]LogTexture:Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2017.07.10-23.17.22:579][625]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.17.22:733][625]LogSavePackage: Save=274.61ms
+[2017.07.10-23.17.22:733][625]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame03194383423D62E9751AB29376A458AF.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.17.22:734][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.17.23:431][625]LogSavePackage: Save=678.19ms
+[2017.07.10-23.17.23:431][625]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData9A3EAD484F6BD914AF1A11AAB288192F.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.17.23:432][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.18.05:236][484]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2017.07.10-23.18.05:237][484]LogTexture:Display: Building textures: Texture2D_63 (BGRA8, 16X16)
+[2017.07.10-23.18.05:237][484]LogTexture:Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2017.07.10-23.18.05:297][484]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2017.07.10-23.18.05:298][484]LogTexture:Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2017.07.10-23.18.05:298][484]LogTexture:Display: Building textures: Texture2D_46 (BGRA8, 16X16)
+[2017.07.10-23.18.05:299][484]LogTexture:Display: Building textures: Texture2D_60 (BGRA8, 16X16)
+[2017.07.10-23.18.05:300][484]LogTexture:Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2017.07.10-23.18.05:300][484]LogTexture:Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2017.07.10-23.18.05:301][484]LogTexture:Display: Building textures: Texture2D_58 (BGRA8, 16X16)
+[2017.07.10-23.18.05:301][484]LogTexture:Display: Building textures: Texture2D_48 (BGRA8, 16X16)
+[2017.07.10-23.18.05:376][484]LogTexture:Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2017.07.10-23.18.05:377][484]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.18.05:378][484]LogTexture:Display: Building textures: Texture2D_57 (BGRA8, 16X16)
+[2017.07.10-23.18.05:403][484]LogTexture:Display: Building textures: Texture2D_50 (BGRA8, 16X16)
+[2017.07.10-23.18.05:406][484]LogTexture:Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2017.07.10-23.18.05:407][484]LogTexture:Display: Building textures: Texture2D_51 (BGRA8, 16X16)
+[2017.07.10-23.18.05:408][484]LogTexture:Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2017.07.10-23.18.05:408][484]LogTexture:Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2017.07.10-23.18.05:409][484]LogTexture:Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2017.07.10-23.18.05:410][484]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.18.05:619][484]LogSavePackage: Save=404.54ms
+[2017.07.10-23.18.05:619][484]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame58ACB6D74929E203228E589469BFCC88.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.18.05:620][484]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.18.06:340][484]LogSavePackage: Save=702.28ms
+[2017.07.10-23.18.06:340][484]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataF8884CB34EEAAEC97A3B8AB89508AA5A.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.18.06:342][484]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.18.11:963][640]LogSavePackage: Save=149.96ms
+[2017.07.10-23.18.11:963][640]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameAA48486C40288017BCCD63A0FDA4FF31.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.18.11:964][640]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.18.12:653][640]LogSavePackage: Save=671.36ms
+[2017.07.10-23.18.12:653][640]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData82B364C74C645AAFCD03F88891C98678.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.18.12:655][640]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.18.22:561][787]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.22:644][787]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.22:669][787]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.22:720][787]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.07.10-23.18.22:725][787]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.07.10-23.18.24:472][813]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.18.24:472][813]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.18.24:472][813]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.18.47:582][308]LogMaterialEditor: Saving and Compiling material Flatland
+[2017.07.10-23.18.48:231][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:299][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:341][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:369][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:434][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:493][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:563][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:578][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.48:635][308]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flatland, compiling. 
+[2017.07.10-23.18.49:273][308]TextureStreamingBuild:Display: Compiling optional shaders took 0.665 seconds.
+[2017.07.10-23.18.51:553][308]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.18.51:699][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flatland" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset" SILENT=true
+[2017.07.10-23.18.51:716][308]LogSavePackage: Save=15.81ms
+[2017.07.10-23.18.51:716][308]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/FlatlandC0C055D84EB783D4769345BCDF81BCE4.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset'
+[2017.07.10-23.18.51:717][308]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset
+[2017.07.10-23.20.30:969][864]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.20.33:111][895]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.20.33:111][895]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.20.33:111][895]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.20.52:970][677]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.20.53:156][678]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.07.10-23.20.53:158][678]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Material_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.20.53:158][678]LogMaterial:Warning: 	Missing Preview connection for function input 'Material'
+[2017.07.10-23.20.55:174][700]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.20.55:174][700]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.20.55:175][700]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.20.57:486][734]LogEditorTransaction: Undo Material Editor: New Function Call
+[2017.07.10-23.20.57:572][734]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.20.57:638][734]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.20.59:493][765]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.20.59:494][765]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.20.59:494][765]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.21.04:693][926]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.21.07:886][ 49]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.21.09:509][ 64]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.21.09:509][ 64]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.21.09:509][ 64]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.22.35:060][464]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.22.36:524][493]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.22.36:525][493]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.22.36:525][493]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.22.42:629][650]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.22.44:540][724]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.22.44:540][724]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.22.44:540][724]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.22.55:744][154]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.22.56:930][178]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.22.56:930][178]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.22.56:930][178]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.23.01:856][348]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.03:904][415]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.05:953][492]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.23.05:953][492]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.23.05:953][492]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.23.07:330][521]LogEditorTransaction: Undo Move Node
+[2017.07.10-23.23.07:413][521]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.13:923][656]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.13:924][656]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.13:924][656]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.13:924][656]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.13:925][656]MaterialEditorStats:Error: Error [SM5] (Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.13:925][656]MaterialEditorStats:Error: Error [SM5] (Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.36:612][980]LogMaterialEditor: Saving and Compiling material Flatland
+[2017.07.10-23.23.39:771][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:771][980]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:771][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:771][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:801][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:801][980]LogMaterial:Warning: Failed to compile Material /Game/Flatland.Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:801][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:801][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:804][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:804][980]LogMaterial:Warning: Failed to compile Material /Game/Flatland.Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:804][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:804][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:811][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:832][980]LogMaterial:Warning: Failed to compile Material Instance /Game/BattleTankGame.LandscapeMaterialInstanceConstant_171 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:832][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:832][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:835][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:835][980]LogMaterial:Warning: Failed to compile Material Instance /Game/BattleTankGame.LandscapeMaterialInstanceConstant_170 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:835][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:835][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:837][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:838][980]LogMaterial:Warning: Failed to compile Material Instance /Game/BattleTankGame.LandscapeMaterialInstanceConstant_169 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:838][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:838][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:839][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:840][980]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_17 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:840][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:840][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:841][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:842][980]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_18 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:842][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:842][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:843][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:844][980]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_19 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:844][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:844][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:845][980]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.23.39:846][980]LogMaterial:Warning: Failed to compile Material Instance /Engine/Transient.LandscapeMaterialInstanceConstant_20 with Base Flatland for platform PCD3D_SM5, Default Material will be used in game.
+[2017.07.10-23.23.39:846][980]LogMaterial:Warning: 	(Node DDX) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:846][980]LogMaterial:Warning: 	(Node DDY) Invalid node used in vertex/hull/domain shader input!
+[2017.07.10-23.23.39:862][980]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flatland, compiling. 
+[2017.07.10-23.23.39:863][980]TextureStreamingBuild:Display: Compiling optional shaders took 0.007 seconds.
+[2017.07.10-23.23.40:000][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flatland" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset" SILENT=true
+[2017.07.10-23.23.40:014][980]LogSavePackage: Save=12.70ms
+[2017.07.10-23.23.40:014][980]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Flatland73E19BC84C478C3E98962E9723E7D68A.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset'
+[2017.07.10-23.23.40:015][980]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset
+[2017.07.10-23.24.17:064][765]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.18:628][796]MaterialEditorStats: Info Base pass shader: 78 instructions
+[2017.07.10-23.24.18:628][796]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.24.18:628][796]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.24.20:100][866]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.21:452][893]MaterialEditorStats: Info Base pass shader: 82 instructions
+[2017.07.10-23.24.21:452][893]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.07.10-23.24.21:452][893]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.07.10-23.24.21:729][900]LogMaterialEditor: Saving and Compiling material Flatland
+[2017.07.10-23.24.22:343][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:383][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:422][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:460][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:526][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:580][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:641][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:650][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.22:680][900]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flatland, compiling. 
+[2017.07.10-23.24.23:134][900]TextureStreamingBuild:Display: Compiling optional shaders took 0.461 seconds.
+[2017.07.10-23.24.25:284][900]LogMaterial: Missing cached shader map for material Flatland, compiling. 
+[2017.07.10-23.24.25:447][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flatland" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset" SILENT=true
+[2017.07.10-23.24.25:464][900]LogSavePackage: Save=14.65ms
+[2017.07.10-23.24.25:464][900]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Flatland3CA4F2094BF1B59C4F67FC9A0BD2C1ED.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset'
+[2017.07.10-23.24.25:466][900]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset
+[2017.07.10-23.25.59:113][250]LogMaterialEditor: Saving and Compiling material Flatland
+[2017.07.10-23.25.59:156][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flatland" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset" SILENT=true
+[2017.07.10-23.25.59:161][250]LogSavePackage: Save=3.90ms
+[2017.07.10-23.25.59:161][250]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Flatland59040EB7424E92BD29FA9E88136F14DA.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset'
+[2017.07.10-23.25.59:162][250]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset
+[2017.07.10-23.26.00:548][280]LogMaterialEditor: Saving and Compiling material Flatland
+[2017.07.10-23.26.00:622][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flatland" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset" SILENT=true
+[2017.07.10-23.26.00:641][280]LogSavePackage: Save=14.06ms
+[2017.07.10-23.26.00:642][280]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/FlatlandB975F5D44776A84964FF69856BD30E30.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset'
+[2017.07.10-23.26.00:644][280]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Flatland.uasset
+[2017.07.10-23.26.17:142][735]Cmd: TRANSACTION UNDO
+[2017.07.10-23.26.17:142][735]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.07.10-23.26.45:377][563]LogTexture:Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2017.07.10-23.26.45:545][563]LogSavePackage: Save=189.33ms
+[2017.07.10-23.26.45:545][563]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame264D30594B881E0EED0E629CB27C4486.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.26.45:546][563]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.26.46:250][563]LogSavePackage: Save=682.86ms
+[2017.07.10-23.26.46:250][563]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData9BB36B3546512FCC145C7ABDF98DA66D.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.26.46:253][563]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.26.51:183][701]LogTexture:Display: Building textures: Texture2D_66 (BGRA8, 16X16)
+[2017.07.10-23.27.06:703][140]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2017.07.10-23.27.06:704][140]LogTexture:Display: Building textures: Texture2D_63 (BGRA8, 16X16)
+[2017.07.10-23.27.06:704][140]LogTexture:Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2017.07.10-23.27.06:705][140]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2017.07.10-23.27.06:705][140]LogTexture:Display: Building textures: Texture2D_60 (BGRA8, 16X16)
+[2017.07.10-23.27.06:705][140]LogTexture:Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2017.07.10-23.27.06:706][140]LogTexture:Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2017.07.10-23.27.06:706][140]LogTexture:Display: Building textures: Texture2D_48 (BGRA8, 16X16)
+[2017.07.10-23.27.06:706][140]LogTexture:Display: Building textures: Texture2D_49 (BGRA8, 16X16)
+[2017.07.10-23.27.06:715][140]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.27.06:761][140]LogTexture:Display: Building textures: Texture2D_50 (BGRA8, 16X16)
+[2017.07.10-23.27.06:762][140]LogTexture:Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2017.07.10-23.27.06:764][140]LogTexture:Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2017.07.10-23.27.06:765][140]LogTexture:Display: Building textures: Texture2D_53 (BGRA8, 16X16)
+[2017.07.10-23.27.06:766][140]LogTexture:Display: Building textures: Texture2D_66 (BGRA8, 16X16)
+[2017.07.10-23.27.06:767][140]LogTexture:Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2017.07.10-23.27.06:768][140]LogTexture:Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2017.07.10-23.27.06:768][140]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.27.06:930][140]LogSavePackage: Save=248.29ms
+[2017.07.10-23.27.06:930][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame8F94E2BC4DF01270B8114B92562F996A.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.27.06:932][140]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.27.07:621][140]LogSavePackage: Save=671.37ms
+[2017.07.10-23.27.07:621][140]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData08F4884B49712392F873F4B1BBE92EE7.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.27.07:623][140]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.27.14:900][345]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.27.14:901][345]LogTexture:Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2017.07.10-23.27.14:901][345]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.27.15:032][345]LogSavePackage: Save=171.21ms
+[2017.07.10-23.27.15:032][345]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameF1965941483E8CD0A4AE7597A8742D07.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.27.15:034][345]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.27.15:747][345]LogSavePackage: Save=694.30ms
+[2017.07.10-23.27.15:747][345]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData550E373D47F8DE6C53B1EAA6460EFC43.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.27.15:749][345]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.28.04:731][890]LogTexture:Display: Building textures: Texture2D_44 (BGRA8, 16X16)
+[2017.07.10-23.28.04:731][890]LogTexture:Display: Building textures: Texture2D_43 (BGRA8, 128X128)
+[2017.07.10-23.28.04:733][890]LogTexture:Display: Building textures: Texture2D_63 (BGRA8, 16X16)
+[2017.07.10-23.28.04:733][890]LogTexture:Display: Building textures: Texture2D_62 (BGRA8, 16X16)
+[2017.07.10-23.28.04:733][890]LogTexture:Display: Building textures: Texture2D_45 (BGRA8, 16X16)
+[2017.07.10-23.28.04:734][890]LogTexture:Display: Building textures: Texture2D_59 (BGRA8, 16X16)
+[2017.07.10-23.28.04:734][890]LogTexture:Display: Building textures: Texture2D_46 (BGRA8, 16X16)
+[2017.07.10-23.28.04:735][890]LogTexture:Display: Building textures: Texture2D_66 (BGRA8, 16X16)
+[2017.07.10-23.28.04:735][890]LogTexture:Display: Building textures: Texture2D_47 (BGRA8, 16X16)
+[2017.07.10-23.28.04:749][890]LogTexture:Display: Building textures: Texture2D_64 (BGRA8, 16X16)
+[2017.07.10-23.28.04:749][890]LogTexture:Display: Building textures: Texture2D_56 (BGRA8, 16X16)
+[2017.07.10-23.28.04:750][890]LogTexture:Display: Building textures: Texture2D_65 (BGRA8, 16X16)
+[2017.07.10-23.28.04:750][890]LogTexture:Display: Building textures: Texture2D_60 (BGRA8, 16X16)
+[2017.07.10-23.28.04:750][890]LogTexture:Display: Building textures: Texture2D_52 (BGRA8, 16X16)
+[2017.07.10-23.28.04:751][890]LogTexture:Display: Building textures: Texture2D_54 (BGRA8, 16X16)
+[2017.07.10-23.28.04:751][890]LogTexture:Display: Building textures: Texture2D_61 (BGRA8, 16X16)
+[2017.07.10-23.28.04:752][890]LogTexture:Display: Building textures: Texture2D_55 (BGRA8, 16X16)
+[2017.07.10-23.28.04:900][890]LogSavePackage: Save=209.18ms
+[2017.07.10-23.28.04:900][890]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameE3382A274DA40D923C6B7397C7779D1B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.28.04:901][890]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.28.05:591][890]LogSavePackage: Save=671.40ms
+[2017.07.10-23.28.05:591][890]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltData3D41E02F4B70962BF5C6B39F3D397619.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.28.05:592][890]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.28.07:960][992]MapCheck: New page: Map Check
+[2017.07.10-23.28.07:988][992]LightingResults: New page: Lighting Build - Jul 10, 2017, 3:28:07 PM
+[2017.07.10-23.28.08:007][992]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.07.10-23.28.08:009][992]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.07.10-23.28.08:009][992]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.07.10-23.28.08:010][992]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.07.10-23.28.08:010][992]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1584
+[2017.07.10-23.28.13:479][992]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.07.10-23.28.13:479][992]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.07.10-23.28.13:479][992]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.07.10-23.28.13:479][992]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.07.10-23.28.13:479][992]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.07.10-23.28.13:686][992]LogEditorBuildUtils: Build time 0:05
+[2017.07.10-23.28.13:706][992]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_120, compiling. 
+[2017.07.10-23.28.13:714][992]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_120, compiling. 
+[2017.07.10-23.28.13:863][998]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_131, compiling. 
+[2017.07.10-23.28.13:872][998]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_131, compiling. 
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25943b38 [can pipeline])
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 1 (Re-using existing connection! (#39) with host datarouter.ol.epicgames.com)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.206.117) port 443 (#39))
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 3 (upload completely sent off: 803 out of 803 bytes)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 6 (Closing connection 39)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC1760814-4041-422F-A57C-35898A185035%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.2-3514769%2B%2B%2BUE4%2BRelease-4.16&UserID=5e54d1554136225e53d3f2a6ec45e9e6%7C9d7b80dcd27b444daf1da3ca20cd21b0%7C585a0d64-0c68-4b92-a631-2c91e887e7ad&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 9 (  Trying 34.224.134.130...)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 10 (connect to 34.224.134.130 port 443 failed: Timed out)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 11 (  Trying 52.70.206.117...)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 12 (connect to 52.70.206.117 port 443 failed: Timed out)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 13 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.07.10-23.28.18:657][ 84]LogHttp:Warning: 00000000C34EE500: libcurl info message cache 14 (Closing connection 40)
+[2017.07.10-23.28.38:672][144]Job is a success!
+[2017.07.10-23.28.39:375][145]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.07.10-23.28.39:375][145]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.07.10-23.28.39:375][145]LogTexture:Display: Building textures: ShadowMapTexture2D_260 (G8, 1024X64)
+[2017.07.10-23.28.39:392][145]Lightmass on R902FG1H: 20.4 sec total, 200 ms importing, 78 ms setup, 17.2 sec photons, 2.92 sec processing, 0 ms extra exporting [50/50 mappings]. Threads: 20.3 sec total, 7.39 sec processing.
+[2017.07.10-23.28.39:408][145]LogStaticLightingSystem: Illumination: 31.0 sec (137 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2017.07.10-23.28.39:408][145]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.07.10-23.28.39:408][145]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.07.10-23.28.39:451][145]DumpUnbuiltLightIteractions
+[2017.07.10-23.28.39:451][145]Lights with unbuilt interactions: 0
+[2017.07.10-23.28.39:451][145]
+[2017.07.10-23.28.39:451][145]Primitives with unbuilt interactions: 0
+[2017.07.10-23.28.39:456][146]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.07.10-23.28.39:457][146]MapCheck: New page: BattleTankGame - Jul 10, 2017, 3:28:39 PM
+[2017.07.10-23.28.39:515][146]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 58.39ms to complete.
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 1 (  Trying 34.224.134.130...)
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 2 (connect to 34.224.134.130 port 443 failed: Timed out)
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 3 (  Trying 52.70.206.117...)
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 4 (connect to 52.70.206.117 port 443 failed: Timed out)
+[2017.07.10-23.29.05:868][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 5 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.07.10-23.29.05:869][226]LogHttp:Warning: 00000000AD4D9000: libcurl info message cache 6 (Closing connection 41)
+[2017.07.10-23.30.35:530][495]LogHttp:Warning: 0000000099FB4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.07.10-23.30.35:530][495]LogHttp:Warning: 0000000099FB4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.07.10-23.30.35:530][495]LogHttp:Warning: 0000000099FB4400: libcurl info message cache 1 (Closing connection 42)
+[2017.07.10-23.31.35:865][676]LogHttp:Warning: 00000000AD8CE500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.07.10-23.31.35:865][676]LogHttp:Warning: 00000000AD8CE500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.07.10-23.31.35:865][676]LogHttp:Warning: 00000000AD8CE500: libcurl info message cache 1 (Closing connection 43)
+[2017.07.10-23.31.41:633][712]LogSavePackage: Save=152.66ms
+[2017.07.10-23.31.41:633][712]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGameA06450834C48E6AA4B50529132964002.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap'
+[2017.07.10-23.31.41:634][712]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame.umap
+[2017.07.10-23.31.41:716][712]LogSavePackage: Save=64.60ms
+[2017.07.10-23.31.41:717][712]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/BattleTankGame_BuiltDataEEA80142404B3F27EB9C8A8BE559DC89.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset'
+[2017.07.10-23.31.41:718][712]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_BuiltData.uasset
+[2017.07.10-23.31.44:041][783]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.10-23.31.44:340][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.10-23.31.44:392][783]PIE: New page: PIE session: BattleTankGame (Jul 10, 2017, 3:31:44 PM)
+[2017.07.10-23.31.44:432][783]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleTankGame
+[2017.07.10-23.31.44:613][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.181513s)
+[2017.07.10-23.31.44:675][783]LogAIModule: Creating AISystem for world BattleTankGame
+[2017.07.10-23.31.44:723][783]LogPlayLevel: PIE: World Init took: (0.101505s)
+[2017.07.10-23.31.44:724][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleTankGame.BattleTankGame to /Game/UEDPIE_0_BattleTankGame.BattleTankGame (0.312980s)
+[2017.07.10-23.31.44:885][783]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.10-23.31.44:975][783]LogInit: FAudioDevice initialized.
+[2017.07.10-23.31.45:100][783]LogLoad: Game class is 'BattleTankGameGameModeBase'
+[2017.07.10-23.31.45:281][783]LogWorld: Bringing World /Game/UEDPIE_0_BattleTankGame.BattleTankGame up for play (max tick rate 60) at 2017.07.10-19.31.45
+[2017.07.10-23.31.45:340][783]LogWorld: Bringing up level for play took: 0.068031
+[2017.07.10-23.31.47:056][783]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0326 seconds. Added 11 classes and 0 folders.
+[2017.07.10-23.31.47:224][783]PIE: Info Play in editor start time for /Game/UEDPIE_0_BattleTankGame 2.901
+[2017.07.10-23.32.00:482][462]LogTemp: Repeting last play command: Selected Viewport
+[2017.07.10-23.32.00:499][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.07.10-23.32.00:499][462]PIE: New page: PIE session: BattleTankGame (Jul 10, 2017, 3:32:00 PM)
+[2017.07.10-23.32.00:499][462]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleTankGame
+[2017.07.10-23.32.00:509][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008957s)
+[2017.07.10-23.32.00:509][462]LogAIModule: Creating AISystem for world BattleTankGame
+[2017.07.10-23.32.00:510][462]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2017.07.10-23.32.00:510][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleTankGame.BattleTankGame to /Game/UEDPIE_0_BattleTankGame.BattleTankGame (0.010390s)
+[2017.07.10-23.32.00:542][462]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.07.10-23.32.00:548][462]LogInit: FAudioDevice initialized.
+[2017.07.10-23.32.00:580][462]LogLoad: Game class is 'BattleTankGameGameModeBase'
+[2017.07.10-23.32.00:583][462]LogWorld: Bringing World /Game/UEDPIE_0_BattleTankGame.BattleTankGame up for play (max tick rate 60) at 2017.07.10-19.32.00
+[2017.07.10-23.32.00:584][462]LogWorld: Bringing up level for play took: 0.002964
+[2017.07.10-23.32.00:585][462]PIE: Info Play in editor start time for /Game/UEDPIE_0_BattleTankGame 0.262
+[2017.07.10-23.32.15:847][206]LogSavePackage: Save=1.54ms
+[2017.07.10-23.32.15:847][206]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Dirt_LayerInfo80B1308C4AAA7665B852DB93A35549F9.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Dirt_LayerInfo.uasset'
+[2017.07.10-23.32.15:903][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Dirt_LayerInfo.uasset
+[2017.07.10-23.32.15:913][206]LogSavePackage: Save=2.86ms
+[2017.07.10-23.32.15:914][206]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Dirt_LayerInfoFlat16B93E384B7243BAF05FD5B26E7D164E.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Dirt_LayerInfoFlat.uasset'
+[2017.07.10-23.32.15:917][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Dirt_LayerInfoFlat.uasset
+[2017.07.10-23.32.15:931][206]LogSavePackage: Save=1.35ms
+[2017.07.10-23.32.15:931][206]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Grass_LayerInfo443DA60A4AB21A19EFE98E8629706D97.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Grass_LayerInfo.uasset'
+[2017.07.10-23.32.15:932][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Grass_LayerInfo.uasset
+[2017.07.10-23.32.15:938][206]LogSavePackage: Save=1.39ms
+[2017.07.10-23.32.15:938][206]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Grass_LayerInfoFlatA25BA8634B7AF817355AF4B8F2BF989B.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Grass_LayerInfoFlat.uasset'
+[2017.07.10-23.32.15:939][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/BattleTankGame_sharedassets/Grass_LayerInfoFlat.uasset
+[2017.07.10-23.32.15:943][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Landscape.uasset" SILENT=true
+[2017.07.10-23.32.15:951][206]LogSavePackage: Save=4.57ms
+[2017.07.10-23.32.15:951][206]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/LandscapeDF699F9D49D0B3E8C33A958ABF60EFD1.tmp' to '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Landscape.uasset'
+[2017.07.10-23.32.15:952][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Landscape.uasset
+[2017.07.10-23.32.16:509][207]Cmd: QUIT_EDITOR
+[2017.07.10-23.32.17:255][207]LogExit: Preparing to exit.
+[2017.07.10-23.32.18:111][207]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/' was aborted.
+[2017.07.10-23.32.18:398][207]LogExit: Editor shut down
+[2017.07.10-23.32.18:422][207]LogExit: Transaction tracking system shut down
+[2017.07.10-23.32.20:154][207]LogObj: Freed 0b from 0 cluster array pools.
+[2017.07.10-23.32.20:155][207]LogExit: Object subsystem successfully closed.
+[2017.07.10-23.32.20:564][207]LogD3D11RHI: Shutdown
+[2017.07.10-23.32.20:565][207]LogD3D11RHI: CleanupD3DDevice
+[2017.07.10-23.32.21:069][207]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.07.10-23.32.21:797][207]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.07.10-23.32.21:797][207]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2017.07.10-23.32.21:797][207]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.07.10-23.32.21:803][207]LogModuleManager: Shutting down and abandoning module CrashTracker (528)
+[2017.07.10-23.32.21:816][207]LogModuleManager: Shutting down and abandoning module SceneOutliner (526)
+[2017.07.10-23.32.21:816][207]LogModuleManager: Shutting down and abandoning module AddContentDialog (524)
+[2017.07.10-23.32.21:838][207]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2017.07.10-23.32.21:840][207]LogModuleManager: Shutting down and abandoning module WidgetCarousel (523)
+[2017.07.10-23.32.21:840][207]LogModuleManager: Shutting down and abandoning module EditorWidgets (520)
+[2017.07.10-23.32.21:840][207]LogModuleManager: Shutting down and abandoning module CollectionManager (518)
+[2017.07.10-23.32.21:847][207]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Collections/' was aborted.
+[2017.07.10-23.32.21:847][207]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/Developers/Student/Collections/' was aborted.
+[2017.07.10-23.32.21:847][207]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Saved/Collections/' was aborted.
+[2017.07.10-23.32.21:847][207]LogModuleManager: Shutting down and abandoning module StatsViewer (516)
+[2017.07.10-23.32.21:862][207]LogModuleManager: Shutting down and abandoning module FoliageEdit (514)
+[2017.07.10-23.32.21:862][207]LogModuleManager: Shutting down and abandoning module LandscapeEditor (512)
+[2017.07.10-23.32.21:874][207]LogModuleManager: Shutting down and abandoning module MeshPaintMode (510)
+[2017.07.10-23.32.21:874][207]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (508)
+[2017.07.10-23.32.21:874][207]LogModuleManager: Shutting down and abandoning module ActorPickerMode (506)
+[2017.07.10-23.32.21:874][207]LogModuleManager: Shutting down and abandoning module GeometryMode (504)
+[2017.07.10-23.32.21:874][207]LogModuleManager: Shutting down and abandoning module TextureAlignMode (502)
+[2017.07.10-23.32.21:874][207]LogModuleManager: Shutting down and abandoning module BspMode (500)
+[2017.07.10-23.32.21:881][207]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.07.10-23.32.21:896][207]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.07.10-23.32.21:896][207]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.07.10-23.32.21:912][207]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.07.10-23.32.21:922][207]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.07.10-23.32.21:965][207]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.07.10-23.32.21:965][207]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.07.10-23.32.21:965][207]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.07.10-23.32.21:965][207]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.07.10-23.32.21:965][207]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.07.10-23.32.21:965][207]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.07.10-23.32.21:970][207]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.07.10-23.32.21:970][207]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.07.10-23.32.21:970][207]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.07.10-23.32.21:970][207]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.07.10-23.32.21:982][207]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.07.10-23.32.22:003][207]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.07.10-23.32.22:003][207]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.07.10-23.32.22:003][207]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.07.10-23.32.22:003][207]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.07.10-23.32.22:011][207]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.07.10-23.32.22:027][207]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.07.10-23.32.22:038][207]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.07.10-23.32.22:045][207]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.07.10-23.32.22:060][207]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (450)
+[2017.07.10-23.32.22:060][207]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (448)
+[2017.07.10-23.32.22:060][207]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (446)
+[2017.07.10-23.32.22:060][207]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (444)
+[2017.07.10-23.32.22:060][207]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (443)
+[2017.07.10-23.32.22:103][207]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.07.10-23.32.22:103][207]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.07.10-23.32.22:103][207]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.07.10-23.32.22:117][207]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.07.10-23.32.22:122][207]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.07.10-23.32.22:122][207]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.07.10-23.32.22:122][207]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.07.10-23.32.22:134][207]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.07.10-23.32.22:149][207]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.07.10-23.32.22:182][207]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.07.10-23.32.22:182][207]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.07.10-23.32.22:187][207]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.07.10-23.32.22:194][207]LogModuleManager: Shutting down and abandoning module UserFeedback (416)
+[2017.07.10-23.32.22:194][207]LogModuleManager: Shutting down and abandoning module XmlParser (414)
+[2017.07.10-23.32.22:233][207]LogModuleManager: Shutting down and abandoning module Blutility (412)
+[2017.07.10-23.32.22:233][207]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (410)
+[2017.07.10-23.32.22:233][207]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (409)
+[2017.07.10-23.32.22:233][207]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (406)
+[2017.07.10-23.32.22:234][207]LogModuleManager: Shutting down and abandoning module SettingsEditor (404)
+[2017.07.10-23.32.22:251][207]LogModuleManager: Shutting down and abandoning module ProjectLauncher (402)
+[2017.07.10-23.32.22:261][207]LogModuleManager: Shutting down and abandoning module SessionFrontend (400)
+[2017.07.10-23.32.22:270][207]LogModuleManager: Shutting down and abandoning module ProfilerClient (398)
+[2017.07.10-23.32.22:308][207]LogModuleManager: Shutting down and abandoning module DeviceManager (396)
+[2017.07.10-23.32.22:316][207]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (395)
+[2017.07.10-23.32.22:366][207]LogModuleManager: Shutting down and abandoning module AutomationController (392)
+[2017.07.10-23.32.22:384][207]LogModuleManager: Shutting down and abandoning module AutomationWindow (390)
+[2017.07.10-23.32.22:398][207]LogModuleManager: Shutting down and abandoning module Layers (388)
+[2017.07.10-23.32.22:431][207]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (386)
+[2017.07.10-23.32.22:431][207]LogModuleManager: Shutting down and abandoning module DetailCustomizations (384)
+[2017.07.10-23.32.22:432][207]LogModuleManager: Shutting down and abandoning module PackagesDialog (382)
+[2017.07.10-23.32.22:432][207]LogModuleManager: Shutting down and abandoning module Persona (380)
+[2017.07.10-23.32.22:497][207]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (379)
+[2017.07.10-23.32.22:497][207]LogModuleManager: Shutting down and abandoning module AnimGraph (377)
+[2017.07.10-23.32.22:497][207]LogModuleManager: Shutting down and abandoning module Kismet (374)
+[2017.07.10-23.32.22:511][207]LogModuleManager: Shutting down and abandoning module ClassViewer (372)
+[2017.07.10-23.32.22:530][207]LogModuleManager: Shutting down and abandoning module Toolbox (370)
+[2017.07.10-23.32.22:549][207]LogModuleManager: Shutting down and abandoning module ModuleUI (368)
+[2017.07.10-23.32.22:576][207]LogModuleManager: Shutting down and abandoning module MovieSceneTools (366)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module OutputLog (364)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module GammaUI (362)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module Documentation (360)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (358)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module MovieScene (356)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module Niagara (354)
+[2017.07.10-23.32.22:577][207]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2017.07.10-23.32.22:705][207]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (350)
+[2017.07.10-23.32.22:705][207]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.07.10-23.32.22:705][207]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.07.10-23.32.22:705][207]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.07.10-23.32.22:705][207]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.07.10-23.32.22:705][207]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.07.10-23.32.22:725][207]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.07.10-23.32.22:725][207]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.07.10-23.32.22:725][207]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.07.10-23.32.22:896][207]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.07.10-23.32.22:940][207]LogModuleManager: Shutting down and abandoning module SubstanceEditor (330)
+[2017.07.10-23.32.22:964][207]LogModuleManager: Shutting down and abandoning module SteamVRController (328)
+[2017.07.10-23.32.22:964][207]LogModuleManager: Shutting down and abandoning module SteamVR (326)
+[2017.07.10-23.32.22:964][207]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (324)
+[2017.07.10-23.32.22:992][207]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module OculusLibrary (320)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module OculusInput (318)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (316)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (310)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module AndroidPermission (308)
+[2017.07.10-23.32.23:014][207]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (304)
+[2017.07.10-23.32.23:050][207]LogModuleManager: Shutting down and abandoning module HTML5Networking (302)
+[2017.07.10-23.32.23:050][207]LogModuleManager: Shutting down and abandoning module AlembicImporter (300)
+[2017.07.10-23.32.23:085][207]LogModuleManager: Shutting down and abandoning module AlembicLibrary (299)
+[2017.07.10-23.32.23:085][207]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2017.07.10-23.32.23:096][207]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2017.07.10-23.32.23:096][207]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (292)
+[2017.07.10-23.32.23:096][207]LogModuleManager: Shutting down and abandoning module SuperSearch (291)
+[2017.07.10-23.32.23:096][207]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (288)
+[2017.07.10-23.32.23:096][207]LogModuleManager: Shutting down and abandoning module PluginBrowser (286)
+[2017.07.10-23.32.23:112][207]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (284)
+[2017.07.10-23.32.23:154][207]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (282)
+[2017.07.10-23.32.23:154][207]LogModuleManager: Shutting down and abandoning module DesktopPlatform (281)
+[2017.07.10-23.32.23:194][207]LogModuleManager: Shutting down and abandoning module UObjectPlugin (278)
+[2017.07.10-23.32.23:194][207]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (276)
+[2017.07.10-23.32.23:223][207]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (274)
+[2017.07.10-23.32.23:233][207]LogModuleManager: Shutting down and abandoning module GitSourceControl (272)
+[2017.07.10-23.32.23:240][207]LogModuleManager: Shutting down and abandoning module SourceControl (271)
+[2017.07.10-23.32.23:255][207]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (268)
+[2017.07.10-23.32.23:255][207]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (266)
+[2017.07.10-23.32.23:255][207]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (264)
+[2017.07.10-23.32.23:255][207]LogModuleManager: Shutting down and abandoning module Paper2DEditor (262)
+[2017.07.10-23.32.23:255][207]LogModuleManager: Shutting down and abandoning module MeshPaint (261)
+[2017.07.10-23.32.23:255][207]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2017.07.10-23.32.23:372][207]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2017.07.10-23.32.23:410][207]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2017.07.10-23.32.23:456][207]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2017.07.10-23.32.23:463][207]LogDirectoryWatcher: A directory notification for 'C:/Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Binaries/Win64' was aborted.
+[2017.07.10-23.32.23:522][207]LogModuleManager: Shutting down and abandoning module BattleTankGame (250)
+[2017.07.10-23.32.23:522][207]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2017.07.10-23.32.23:546][207]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2017.07.10-23.32.23:546][207]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2017.07.10-23.32.23:546][207]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (242)
+[2017.07.10-23.32.23:546][207]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (240)
+[2017.07.10-23.32.23:554][207]LogModuleManager: Shutting down and abandoning module UdpMessaging (238)
+[2017.07.10-23.32.23:654][207]LogModuleManager: Shutting down and abandoning module TcpMessaging (236)
+[2017.07.10-23.32.23:762][207]LogModuleManager: Shutting down and abandoning module SubstanceCore (234)
+[2017.07.10-23.32.23:787][207]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (232)
+[2017.07.10-23.32.23:803][207]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (230)
+[2017.07.10-23.32.23:803][207]LogModuleManager: Shutting down and abandoning module FacialAnimation (228)
+[2017.07.10-23.32.23:803][207]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (226)
+[2017.07.10-23.32.23:817][207]LogModuleManager: Shutting down and abandoning module GraphEditor (225)
+[2017.07.10-23.32.23:817][207]LogModuleManager: Shutting down and abandoning module ContentBrowser (223)
+[2017.07.10-23.32.23:818][207]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (220)
+[2017.07.10-23.32.23:818][207]LogModuleManager: Shutting down and abandoning module Paper2D (218)
+[2017.07.10-23.32.23:820][207]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (216)
+[2017.07.10-23.32.23:830][207]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2017.07.10-23.32.23:871][207]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2017.07.10-23.32.23:891][207]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2017.07.10-23.32.23:903][207]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2017.07.10-23.32.23:903][207]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (206)
+[2017.07.10-23.32.23:929][207]LogModuleManager: Shutting down and abandoning module VREditor (204)
+[2017.07.10-23.32.23:966][207]LogModuleManager: Shutting down and abandoning module StringTableEditor (202)
+[2017.07.10-23.32.23:981][207]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (200)
+[2017.07.10-23.32.23:981][207]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (198)
+[2017.07.10-23.32.24:029][207]LogModuleManager: Shutting down and abandoning module FunctionalTesting (196)
+[2017.07.10-23.32.24:029][207]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (194)
+[2017.07.10-23.32.24:076][207]LogModuleManager: Shutting down and abandoning module UMG (192)
+[2017.07.10-23.32.24:098][207]LogModuleManager: Shutting down and abandoning module UMGEditor (191)
+[2017.07.10-23.32.24:129][207]LogModuleManager: Shutting down and abandoning module Sequencer (190)
+[2017.07.10-23.32.24:330][207]LogModuleManager: Shutting down and abandoning module AssetTools (188)
+[2017.07.10-23.32.24:981][207]LogModuleManager: Shutting down and abandoning module MessageLog (187)
+[2017.07.10-23.32.24:981][207]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (186)
+[2017.07.10-23.32.24:981][207]LogModuleManager: Shutting down and abandoning module SlateReflector (180)
+[2017.07.10-23.32.25:549][207]LogModuleManager: Shutting down and abandoning module Slate (178)
+[2017.07.10-23.32.25:549][207]LogModuleManager: Shutting down and abandoning module EditorStyle (176)
+[2017.07.10-23.32.25:610][207]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (174)
+[2017.07.10-23.32.25:610][207]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (172)
+[2017.07.10-23.32.25:610][207]LogModuleManager: Shutting down and abandoning module XAudio2 (170)
+[2017.07.10-23.32.25:610][207]LogModuleManager: Shutting down and abandoning module Networking (168)
+[2017.07.10-23.32.25:610][207]LogModuleManager: Shutting down and abandoning module Core (164)
+[2017.07.10-23.32.25:610][207]LogModuleManager: Shutting down and abandoning module AssetRegistry (162)
+[2017.07.10-23.32.25:652][207]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.07.10-23.32.25:652][207]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Student/Documents/Unreal Projects/repos/BT04_BattleTankGame/BattleTankGame/Content/' was aborted.
+[2017.07.10-23.32.25:652][207]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.07.10-23.32.25:652][207]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2017.07.10-23.32.25:672][207]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2017.07.10-23.32.25:673][207]LogModuleManager: Shutting down and abandoning module KismetCompiler (158)
+[2017.07.10-23.32.25:673][207]LogModuleManager: Shutting down and abandoning module PhysXFormats (156)
+[2017.07.10-23.32.25:673][207]LogModuleManager: Shutting down and abandoning module MeshUtilities (154)
+[2017.07.10-23.32.25:750][207]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (153)
+[2017.07.10-23.32.25:784][207]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (151)
+[2017.07.10-23.32.25:784][207]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (149)
+[2017.07.10-23.32.25:784][207]LogModuleManager: Shutting down and abandoning module LevelSequence (146)
+[2017.07.10-23.32.25:784][207]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.07.10-23.32.25:853][207]LogDerivedDataCache: Shutdown
+[2017.07.10-23.32.25:853][207]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.07.10-23.32.25:853][207]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.07.10-23.32.25:894][207]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.07.10-23.32.25:936][207]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.07.10-23.32.26:006][207]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.07.10-23.32.26:006][207]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.07.10-23.32.26:013][207]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.07.10-23.32.26:013][207]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.07.10-23.32.26:041][207]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.07.10-23.32.26:042][207]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.07.10-23.32.26:061][207]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.07.10-23.32.26:086][207]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.07.10-23.32.26:086][207]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.07.10-23.32.26:086][207]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.07.10-23.32.26:110][207]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.07.10-23.32.26:141][207]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.07.10-23.32.26:141][207]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.07.10-23.32.26:141][207]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.07.10-23.32.26:141][207]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.07.10-23.32.26:171][207]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.07.10-23.32.26:171][207]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.07.10-23.32.26:171][207]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.07.10-23.32.26:171][207]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.07.10-23.32.26:171][207]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.07.10-23.32.26:171][207]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.07.10-23.32.26:280][207]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.07.10-23.32.26:280][207]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.07.10-23.32.26:281][207]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.07.10-23.32.26:292][207]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.07.10-23.32.26:296][207]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.07.10-23.32.26:314][207]LogModuleManager: Shutting down and abandoning module OculusRift (56)
+[2017.07.10-23.32.26:323][207]LogModuleManager: Shutting down and abandoning module GearVRController (54)
+[2017.07.10-23.32.26:323][207]LogModuleManager: Shutting down and abandoning module GearVR (52)
+[2017.07.10-23.32.26:328][207]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.07.10-23.32.26:328][207]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.07.10-23.32.26:328][207]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.07.10-23.32.26:328][207]LogOnline:Display: Unloading online subsystem: NULL
+[2017.07.10-23.32.26:753][207]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.07.10-23.32.26:931][207]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.07.10-23.32.26:931][207]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.07.10-23.32.26:953][207]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC1760814-4041-422F-A57C-35898A185035%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.2-3514769%2B%2B%2BUE4%2BRelease-4.16&UserID=5e54d1554136225e53d3f2a6ec45e9e6%7C9d7b80dcd27b444daf1da3ca20cd21b0%7C585a0d64-0c68-4b92-a631-2c91e887e7ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.07.10-23.32.26:953][207]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.07.10-23.32.27:453][207]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.07.10-23.32.27:953][207]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.07.10-23.32.28:453][207]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.07.10-23.32.28:953][207]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.07.10-23.32.29:453][207]LogHttp:Warning: 000000002358D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.07.10-23.32.29:453][207]LogHttp:Warning: 000000002358D900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.07.10-23.32.29:453][207]LogHttp:Warning: 000000002358D900: libcurl info message cache 1 (Closing connection 44)
+[2017.07.10-23.32.30:324][207]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.07.10-23.32.32:600][207]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (36)
+[2017.07.10-23.32.32:762][207]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.07.10-23.32.32:784][207]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.07.10-23.32.32:785][207]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.07.10-23.32.32:807][207]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.07.10-23.32.32:807][207]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.07.10-23.32.32:808][207]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.07.10-23.32.32:808][207]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.07.10-23.32.33:155][207]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.07.10-23.32.33:175][207]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.07.10-23.32.33:175][207]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.07.10-23.32.33:175][207]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.07.10-23.32.33:175][207]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.07.10-23.32.33:175][207]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.07.10-23.32.33:175][207]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.07.10-23.32.33:230][207]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.07.10-23.32.33:272][207]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.07.10-23.32.33:272][207]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.07.10-23.32.33:603][207]LogExit: Exiting.
+[2017.07.10-23.32.34:661][207]Log file closed, 07/10/17 19:32:34
